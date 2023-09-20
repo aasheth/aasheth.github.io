@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Pranav's SciML World !!"
+title                    : "Welcome to Pranav's SciML Website"
 title_separator          : "-"
 name                     : &name "Pranav Bahl"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ author:
   avatar           : "ProfilePhoto.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "London, England, United Kingdom"
-  employer         : "Imperial College London"
+  employer         : #"Imperial College London"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=gfmnKaUAAAAJ&hl=en&oi=ao"
   email            : "pranavbahl.imperial22@gmail.com"
