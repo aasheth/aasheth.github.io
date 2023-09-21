@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Pranav's SciML Website"
+title                    : "Pranav's SciML Website"
 title_separator          : "-"
 name                     : &name "Pranav Bahl"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pranav Bahl"
   avatar           : "ProfilePhoto.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "MSc Student, Imperial College London"
   location         : "London, England, United Kingdom"
   employer         : #"Imperial College London"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
