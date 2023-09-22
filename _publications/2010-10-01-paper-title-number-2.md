@@ -12,4 +12,4 @@ This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Pant P, Doshi R, Bahl P, Barati Farimani A. Deep learning for reduced order modelling and efficient temporal evolution of fluid simulations. Physics of Fluids. 2021 Oct 1;33(10).
