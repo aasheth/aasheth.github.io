@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-10-01
 venue: 'Physics of Fluids'
 paperurl: 'https://doi.org/10.1063/5.0062546' 
-citation: 'Pant, Pranshu, Ruchit Doshi, Pranav Bahl, and Amir Barati Farimani. "Deep learning for reduced order modelling and efficient temporal evolution of fluid simulations." Physics of Fluids 33, no. 10 (2021).' {: style="text-align: justify;"}
+citation: 'Pant, Pranshu, Ruchit Doshi, Pranav Bahl, and Amir Barati Farimani. "Deep learning for reduced order modelling and efficient temporal evolution of fluid simulations." Physics of Fluids 33, no. 10 (2021).'
 ---
 
 <center><p float="center">
