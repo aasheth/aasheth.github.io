@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-05-15
 venue: 'Journal of Computational Physics'
 paperurl: 'https://doi.org/10.1016/j.jcp.2022.111081' 
-citation: 'Kumar, Yash, Pranav Bahl, and Souvik Chakraborty. "State estimation with limited sensors–a deep learning based approach." Journal of Computational Physics 457 (2022): 111081.' {: style="text-align: justify;"}
+citation: 'Kumar, Yash, Pranav Bahl, and Souvik Chakraborty. "State estimation with limited sensors–a deep learning based approach." Journal of Computational Physics 457 (2022): 111081.'
 ---
 
 <center><p float="center">
