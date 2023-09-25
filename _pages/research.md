@@ -5,10 +5,10 @@ permalink: /research/
 classes: wide
 ---
 
-<br/>
 # Research
 (Computational Fluid Dynamics (CFD) has become an indispensable tool for many engineering applications. Unfortunately, high-fidelity CFD simulations are often so computationally prohibitive that they cannot be used as often as needed or used only in special circumstances rather than routinely. Model order reduction (MOR) is a family of techniques for reducing the computational complexity of such large-scale computational models. This is where the core of my research lies!)
 {: style="text-align: justify;"}
+
 (**Keywords**: computational fluid dynamics; deep learning; reinforcement learning; high-performance computing; reduced-order modeling)
 
 ## 1. Computational fluid dynamics and machine learning for Flow control
