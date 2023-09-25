@@ -21,8 +21,8 @@ We numerically investigated a model system in which a passively deployable, tors
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/assets/images/passivefc.png" width="30%" /> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/assets/images/maps.png" width="60%" />
+  <img src="/assets/images/QuantumVc.png" width="50%" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/assets/images/l63_expdivLR.gif" width="50%" />
 </p></center>
 
 ### Classical gated recurrent neural networks - An autonomous dynamical system
@@ -31,7 +31,8 @@ We are currently designing an active flow control counterpart of the above-menti
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/assets/images/rl.png" width="60%" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/assets/images/ClassicalGRNN.png" width="40%" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/assets/images/l96_web.gif" width="57%" />
 </p></center>
 
 ## 2. Deep learning and Reduced order models (ROMs)
@@ -44,7 +45,7 @@ More details about this work can be found [[here]](https://arxiv.org/pdf/1912.10
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/assets/images/se.png" width="60%" />
+  <img src="/assets/images/JCP.gif" width="100%" />
 </p></center>
 
 ### Deep learning based effecient data-driven reduced-order model (ROMs) for temporal evolution
