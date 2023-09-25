@@ -39,7 +39,7 @@ We are currently designing an active flow control counterpart of the above-menti
 More details about this work can be found [[here]](https://arxiv.org/pdf/1912.10553).
 {: style="text-align: justify;"}
 
-## State estimation using deep learning - Leveraging Reduced order models (ROMs)  
+### State estimation using deep learning - Leveraging Reduced order models (ROMs)  
 More details about this work can be found [[here]](https://arxiv.org/pdf/1912.10553).
 {: style="text-align: justify;"}
 
@@ -47,7 +47,7 @@ More details about this work can be found [[here]](https://arxiv.org/pdf/1912.10
   <img src="/assets/images/se.png" width="60%" />
 </p></center>
 
-## Deep learning based effecient data-driven reduced-order model (ROM) for temporal evolution
+### Deep learning based effecient data-driven reduced-order model (ROM) for temporal evolution
 Recently, deep convolutional autoencoders have been used to construct nonlinear manifolds for model order reduction. 
 {: style="text-align: justify;"}
 
@@ -70,23 +70,26 @@ Traditional ROM approaches cannot be expected to efficiently provide good approx
 # Selected Course Projects
 
 ## 1. Pattern recognition in fluid dynamics using deep convolutional autoencoders
-We developed a nonlinear modal decomposition framework for accurately representing transient fluid flows where traditional techniques perform poorly. In this approach, the flow patterns identified by the manifold were analyzed by evaluating the principle directions of the low-dimensional latent space. The nonlinear manifold was constructed using a deep convolutional autoencoder. The proposed framework was demonstrated to reconstruct and identify dominant and meaningful flow patterns in a transient flow ensuing from an impulsive motion of a flat plate at a large angle of attack.
+We developed a nonlinear modal decomposition framework for accurately representing transient fluid flows where traditional techniques perform poorly. 
 {: style="text-align: justify;"}
+
 <center><p float="center">
   <img src="/assets/images/cae.png" width="60%" />
 </p></center>
 
 ## 2. Aeroacoustics of vortex shedding about a stalled airfoil
-The Ffowcs Williams-Hawkings (FWH) equation for predicting acoustic pressure was numerically solved using the Farassat Formulation 1A. This formulation has been historically used for predicting helicoptor rotor and propeller noise. First, the code was validated against analytical solutions consisting of stationary and moving monopoles. The validated code was then used to predict vortex shedding noise about a stalled airfoil.
+The Ffowcs Williams-Hawkings (FWH) equation for predicting acoustic pressure was numerically solved using the Farassat Formulation 1A. 
 {: style="text-align: justify;"}
+
 <center><p float="center">
   <img src="/assets/images/caevs.png" width="30%" /> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="/assets/images/directivity.png" width="30%" />
 </p></center>
 
 ## 3. Shock induced flow separation control using vortex generators
-Shock induced flow separation during transonic flow conditions decreases the aerodynamic performance of the wing. In this work, passive flow control of transonic flow past an Onera M6 wing using vortex generators was studied. The CFD simulations were performed on Ansys Fluent. Velocity contours at various spanwise locations revealed the delay of shock occurrence downstream and reduced flow separation. The resulting improvements in the lift to drag ratio, implied that the vortex generators improved the aerodynamic performance of the wing.
+Shock induced flow separation during transonic flow conditions decreases the aerodynamic performance of the wing.
 {: style="text-align: justify;"}
+
 <center><p float="center">
   <img src="/assets/images/mesh.png" width="30%" /> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="/assets/images/cpfluent.png" width="30%" /> &nbsp; &nbsp; &nbsp; &nbsp;
