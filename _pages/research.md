@@ -7,9 +7,9 @@ classes: wide
 
 <br/>
 # Research
-[//]: <> (Computational Fluid Dynamics (CFD) has become an indispensable tool for many engineering applications. Unfortunately, high-fidelity CFD simulations are often so computationally prohibitive that they cannot be used as often as needed or used only in special circumstances rather than routinely. Model order reduction (MOR) is a family of techniques for reducing the computational complexity of such large-scale computational models. This is where the core of my research lies!)
+(Computational Fluid Dynamics (CFD) has become an indispensable tool for many engineering applications. Unfortunately, high-fidelity CFD simulations are often so computationally prohibitive that they cannot be used as often as needed or used only in special circumstances rather than routinely. Model order reduction (MOR) is a family of techniques for reducing the computational complexity of such large-scale computational models. This is where the core of my research lies!)
 {: style="text-align: justify;"}
-[//]: <>(**Keywords**: computational fluid dynamics; deep learning; reinforcement learning; high-performance computing; reduced-order modeling)
+(**Keywords**: computational fluid dynamics; deep learning; reinforcement learning; high-performance computing; reduced-order modeling)
 
 ## 1. Computational fluid dynamics and machine learning for Flow control
 Flow control is a process of manipulating the flow to achieve desirable aerodynamic performance. The flow control technique in this work is inspired from covert feathers in birds---a set of self-actuating feathers located on the suction surface of the wings. During unsteady flow separation, these feathers protrude into the flow and provide lift enhancements, for reasons that are still not understood. We study the utility of covert feathers as a both passive and active flow control technique.
