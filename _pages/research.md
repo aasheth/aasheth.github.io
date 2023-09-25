@@ -12,7 +12,7 @@ classes: wide
 (**Keywords**: computational fluid dynamics; deep learning; reinforcement learning; high-performance computing; reduced-order modeling)
 
 ## 1. Computational fluid dynamics and machine learning for Flow control
-Flow control is a process of manipulating the flow to achieve desirable aerodynamic performance. The flow control technique in this work is inspired from covert feathers in birds---a set of self-actuating feathers located on the suction surface of the wings. During unsteady flow separation, these feathers protrude into the flow and provide lift enhancements, for reasons that are still not understood. We study the utility of covert feathers as a both passive and active flow control technique.
+Pranav control is a process of manipulating the flow to achieve desirable aerodynamic performance. The flow control technique in this work is inspired from covert feathers in birds---a set of self-actuating feathers located on the suction surface of the wings. During unsteady flow separation, these feathers protrude into the flow and provide lift enhancements, for reasons that are still not understood. We study the utility of covert feathers as a both passive and active flow control technique.
 {: style="text-align: justify;"}
 
 ### Passive flow control
