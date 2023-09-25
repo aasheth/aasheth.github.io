@@ -53,7 +53,7 @@ Recently, deep convolutional autoencoders have been used to construct nonlinear 
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/assets/images/hadap.png" width="40%" />
+  <img src="/assets/images/LabelCylinder_f.gif" width="40%" />
 </p></center>
 
 
