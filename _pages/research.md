@@ -39,7 +39,7 @@ We are currently designing an active flow control counterpart of the above-menti
 More details about this work can be found [[here]](https://arxiv.org/pdf/1912.10553).
 {: style="text-align: justify;"}
 
-### State estimation using deep learning - Leveraging Reduced order models (ROMs)  
+### State estimation using deep learning - Leveraging reduced order models (ROMs)  
 More details about this work can be found [[here]](https://arxiv.org/pdf/1912.10553).
 {: style="text-align: justify;"}
 
@@ -47,7 +47,7 @@ More details about this work can be found [[here]](https://arxiv.org/pdf/1912.10
   <img src="/assets/images/se.png" width="60%" />
 </p></center>
 
-### Deep learning based effecient data-driven reduced-order model (ROM) for temporal evolution
+### Deep learning based effecient data-driven reduced-order model (ROMs) for temporal evolution
 Recently, deep convolutional autoencoders have been used to construct nonlinear manifolds for model order reduction. 
 {: style="text-align: justify;"}
 
