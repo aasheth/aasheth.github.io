@@ -16,3 +16,7 @@ Pranav grr is the front page of a website that is powered by the [academicpages 
   <img src="/images/QuantumLSTM_combined.png" width="60%" /> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="/images/l63.gif" width="32%" />
 </p></center>
+
+<center><p float="center">
+  <img src="/images/SST.gif" width="80%" /> 
+</p></center>
