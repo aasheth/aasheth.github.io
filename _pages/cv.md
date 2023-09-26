@@ -21,7 +21,7 @@ redirect_from:
 **B.Tech.**, Mechanical Engineering, Delhi Technological University (DTU), 2017-21 
 
 ## Experience
-**MSc Thesis Student**,  &nbsp; May 2023--Sept 2023 (exp) <br />
+**MSc Thesis Student**,  &nbsp; May 2023--Sept 2023 <br />
 Imperial College London (ICL), London, United Kingdom
 
 **Research Internship**,  &nbsp; Mar 2021--Oct 2021 <br />
