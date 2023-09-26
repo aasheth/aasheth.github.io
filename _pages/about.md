@@ -18,7 +18,7 @@ Pranav grr is the front page of a website that is powered by the [academicpages 
 </p></center>
 
 <center><p float="center">
-  <img src="/images/Dynamical.png" width="60%" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/images/Dynamical.PNG" width="60%" /> &nbsp; &nbsp; &nbsp; &nbsp;
 </p></center>
 
 <center><p float="center">
