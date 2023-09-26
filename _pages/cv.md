@@ -42,3 +42,8 @@ Delhi Technological University (DTU), India
 **Machine Learning**: Pytorch, Tensorflow, Scikit-Learn, Optuna <br />
 **CFD and CAD**: ANSYS Fluent, Star-CCM+, Nektar++, OpenFOAM, SolidWorks, XFOIL <br />
 **Other**: Git (Version Control), Matlab, Latex.
+
+## Publications
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
