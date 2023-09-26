@@ -14,7 +14,7 @@ redirect_from:
 
 # Summary
 ## Education
-**MSc (Master's degree)**, Aerospace Engineering, Imperial College London (ICL), 2022-23
+**MSc.**, Aerospace Engineering (Master's degree), Imperial College London (ICL), 2022-23
 <br />
 Advanced Computational Methods for Aeronautics, Flow-management and Fluid-structure interaction (FSI)
 
