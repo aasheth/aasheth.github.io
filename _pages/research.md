@@ -45,7 +45,7 @@ More details about this work can be found [[here]](https://arxiv.org/pdf/1912.10
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/images/JCP.gif" width="80%" />
+  <img src="/images/JCP.gif" width="70%" />
 </p></center>
 
 ### Deep learning based effecient data-driven reduced-order model (ROMs) for temporal evolution
@@ -53,7 +53,7 @@ Recently, deep convolutional autoencoders have been used to construct nonlinear 
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/images/LabelCylinder_f.gif" width="70%" />
+  <img src="/images/LabelCylinder_f.gif" width="60%" />
 </p></center>
 
 
