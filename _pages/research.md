@@ -62,8 +62,7 @@ Traditional ROM approaches cannot be expected to efficiently provide good approx
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/assets/images/step.png" width="50%" /> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/assets/images/combustion.png" width="33%" />
+  <img src="/images/UAV.png" width="80%" />
 </p></center>
 
 <br/>
