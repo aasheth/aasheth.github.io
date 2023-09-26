@@ -16,9 +16,7 @@ redirect_from:
 ## Education
 **MSc.**, Aerospace Engineering (Master's degree), Imperial College London (ICL), 2022-23
 <br /> 
-**Concentration** 
-<br /> 
-Advanced Computational Methods for Aeronautics, Flow-management and Fluid-structure interaction (FSI)
+**Concentration :** Advanced Computational Methods for Aeronautics, Flow-management and Fluid-structure interaction (FSI)
 
 **B.Tech.**, Mechanical Engineering, Delhi Technological University (DTU), 2017-21 
 
