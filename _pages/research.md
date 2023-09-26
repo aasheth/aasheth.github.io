@@ -21,8 +21,8 @@ We numerically investigated a model system in which a passively deployable, tors
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/images/QuantumVc.png" width="60%" /> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/images/l63_expdivLR.gif" width="30%" />
+  <img src="/images/QuantumVc.png" width="50%" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/images/l63_expdivLR.gif" width="38%" />
 </p></center>
 
 ### Classical gated recurrent neural networks - An autonomous dynamical system
