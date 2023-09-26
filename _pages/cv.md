@@ -9,50 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Mechanical Engineering, Delhi Technological University, 2021
-* M.S. in Advanced Computational Methods, Imperial College London, 2023
+[Download Full Resume](/assets/images/CV_Nirmal.pdf){: .btn .btn--info} (updated 26/09/2023)
+{% include feature_row %}
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+# Summary
+## Education
+**MSc (Master's degree)**, Aerospace Engineering, Imperial College London (ICL), 2022-23
+<br />
+Advanced Computational Methods for Aeronautics, Flow-management and Fluid-structure interaction (FSI)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**B.Tech.**, Mechanical Engineering, Delhi Technological University (DTU), 2017-21 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Experience
+**MSc Thesis Student**;  &nbsp; May 2023--Sept 2023 (exp) <br />
+Imperial College London (ICL), London, United Kingdom
+
+**Research Internship**;  &nbsp; Mar 2021--Oct 2021 <br />
+Carnegie Mellon University (CMU), Pennsylvania, USA
+
+**Summer Fellowship Research Programme (SFRP-2020)**;  &nbsp; Jun 2020--Aug 2020 <br />
+Indian Institute of Technology Delhi (IITD), India
+
+**Summer Internship**;  &nbsp; May 2019--Jul 2019 <br />
+Forbes Marshall, IIT Madras Research Park, India
+
+**Airframe CFD Engineer - Unmanned Aerial Systems (UAS-DTU)**;  &nbsp; Nov 2018--April 2020 <br />
+Delhi Technological University (DTU), India
+
+## Skills
+
+**Programming**: Python, Matlab, Fortran, C/C++ <br />
+**Machine Learning**: Pytorch, Tensorflow, Scikit-Learn, Optuna <br />
+**CFD and CAD**: Ansys Fluent, Star CCM+, Nektar++, OpenFOAM, SolidWorks <br />
+**Other**: Git (Version Control), Matlab, Latex.
