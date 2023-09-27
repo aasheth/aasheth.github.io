@@ -69,32 +69,16 @@ Traditional ROM approaches cannot be expected to efficiently provide good approx
 
 # Selected Course Projects
 
-## 1. Pattern recognition in fluid dynamics using deep convolutional autoencoders
+## 1. Computational Fluid Dynamics
 We developed a nonlinear modal decomposition framework for accurately representing transient fluid flows where traditional techniques perform poorly. 
 {: style="text-align: justify;"}
 
-<center><p float="center">
-  <img src="/assets/images/cae.png" width="60%" />
-</p></center>
 
-## 2. Aeroacoustics of vortex shedding about a stalled airfoil
+## 2. Computational Linear Algebra and Machine Learning
 The Ffowcs Williams-Hawkings (FWH) equation for predicting acoustic pressure was numerically solved using the Farassat Formulation 1A. 
 {: style="text-align: justify;"}
 
-<center><p float="center">
-  <img src="/assets/images/caevs.png" width="30%" /> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/assets/images/directivity.png" width="30%" />
-</p></center>
 
-## 3. Shock induced flow separation control using vortex generators
-Shock induced flow separation during transonic flow conditions decreases the aerodynamic performance of the wing.
-{: style="text-align: justify;"}
-
-<center><p float="center">
-  <img src="/assets/images/mesh.png" width="30%" /> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/assets/images/cpfluent.png" width="30%" /> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/assets/images/ansys.png" width="70%" />
-</p></center>
 
 
 
