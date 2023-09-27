@@ -22,11 +22,6 @@ Pranav grrapple is the front page of a website that is powered by the [academicp
 * Deep learning based Reduced-order modeling (ROM)
 * Fluid mechanics and Computational fluid dynamics (CFD)
 
-<-----!
-<center><p float="center">
-  <img src="/images/LabelCylinder_f.gif" width="60%" /> 
-</p></center>
-!----->
 <center><p float="center">
   <img src="/images/Dynamical.PNG" width="68%" /> &nbsp; &nbsp; &nbsp; &nbsp;
 </p></center>
