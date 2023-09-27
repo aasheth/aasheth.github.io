@@ -13,11 +13,10 @@ Pranav grrapple is the front page of a website that is powered by the [academicp
 {: style="text-align: justify;"}
 
 ## Interests 
-* Deep learning
+* Deep learning 
 * Numerical Methods  
-* Dynamical Systems
-* Chaos
-* Reduced-order modeling
+* Chaos theory
+* Reduced-order modeling (ROM)
 * Computational fluid dynamics (CFD)
 
 <center><p float="center">
