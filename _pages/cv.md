@@ -14,11 +14,11 @@ redirect_from:
 
 # Summary
 ## Education
-**MSc.**, Aerospace Engineering (Master's degree), Imperial College London (ICL), 2022-23
+**MSc**, Aerospace Engineering (Master's degree), Imperial College London (ICL), 2022-23
 <br /> 
 **Concentration :** Advanced Computational Methods for Aeronautics, Flow-management and Fluid-structure interaction
 
-**B.Tech.**, Mechanical Engineering, Delhi Technological University (DTU), 2017-21 
+**B.Tech**, Mechanical Engineering (Bachelor's degree), Delhi Technological University (DTU), 2017-21 
 
 ## Experience
 **MSc Thesis Student**,  &nbsp; May 2023--Sept 2023 <br />
