@@ -13,6 +13,11 @@ Pranav ]] glppee is the front page of a website that is powered by the [academic
 {: style="text-align: justify;"}
 
 
+<center><p float="center">
+  <img src="/images/LabelCylinder_f.gif" width="68%">
+</p></center>
+
+
 ## Interests 
 * Deep learning and Scientific machine learning (SciML) 
 * Numerical methods for Partial differential equations (PDEs)  
@@ -20,10 +25,6 @@ Pranav ]] glppee is the front page of a website that is powered by the [academic
 * Deep learning based Reduced-order modeling (ROM)
 * Fluid mechanics and Computational fluid dynamics (CFD)
 
-
-<center><p float="center">
-  <img src="/images/LabelCylinder_f.gif" width="68%">
-</p></center>
 
 <center><p float="center">
   <img src="/images/Dynamical.PNG" width="68%" /> &nbsp; &nbsp; &nbsp; &nbsp;
