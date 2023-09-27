@@ -19,7 +19,7 @@ Pranav ]] glppee is the front page of a website that is powered by the [academic
 
 
 <center><p float="center">
-  <img src="/images/Dynamical.PNG" width="73%" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/images/Dynamical.PNG" width="68%" /> &nbsp; &nbsp; &nbsp; &nbsp;
 </p></center>
 
 <center><p float="center">
