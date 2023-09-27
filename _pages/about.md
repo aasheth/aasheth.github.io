@@ -13,7 +13,7 @@ Pranav grr is the front page of a website that is powered by the [academicpages 
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/images/LabelCylinder_f.gif" width="64%" /> 
+  <img src="/images/LabelCylinder_f.gif" width="54%" /> 
 </p></center>
 
 <center><p float="center">
