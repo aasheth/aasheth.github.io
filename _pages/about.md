@@ -13,14 +13,14 @@ Pranav grr is the front page of a website that is powered by the [academicpages 
 {: style="text-align: justify;"}
 
 <center><p float="center">
+  <img src="/images/SST_web.gif" width="84%" /> 
+</p></center>
+
+<center><p float="center">
   <img src="/images/Dynamical.PNG" width="60%" /> &nbsp; &nbsp; &nbsp; &nbsp;
 </p></center>
 
 <center><p float="center">
   <img src="/images/QuantumLSTM_combined.png" width="60%" /> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="/images/l63.gif" width="32%" />
-</p></center>
-
-<center><p float="center">
-  <img src="/images/SST_web.gif" width="84%" /> 
 </p></center>
