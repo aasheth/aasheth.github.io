@@ -70,12 +70,14 @@ Traditional ROM approaches cannot be expected to efficiently provide good approx
 # Selected Course Projects
 
 ## 1. Computational Fluid Dynamics
-We developed a nonlinear modal decomposition framework for accurately representing transient fluid flows where traditional techniques perform poorly. 
+  * List item one 
+      * List item one 
 {: style="text-align: justify;"}
 
 
 ## 2. Computational Linear Algebra and Machine Learning
-The Ffowcs Williams-Hawkings (FWH) equation for predicting acoustic pressure was numerically solved using the Farassat Formulation 1A. 
+  * List item one 
+      * List item one 
 {: style="text-align: justify;"}
 
 
