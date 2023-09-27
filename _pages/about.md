@@ -35,3 +35,6 @@ Pranav ]] glppee is the front page of a website that is powered by the [academic
 * Chaos theory and Dynamical systems
 * Deep learning based Reduced-order modeling (ROM)
 * Fluid mechanics and Computational fluid dynamics (CFD)
+
+## Education
+
