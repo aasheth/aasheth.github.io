@@ -13,11 +13,11 @@ Pranav grrapple is the front page of a website that is powered by the [academicp
 {: style="text-align: justify;"}
 
 ## Interests 
-* Deep learning 
+* Deep learning and Scientific machine learning (SciML) 
 * Numerical methods for Partial differential equations (PDEs)  
 * Chaos theory and Dynamical systems
 * Deep learning based Reduced-order modeling (ROM)
-* Computational fluid dynamics (CFD)
+* Fluid mechanics and Computational fluid dynamics (CFD)
 
 <center><p float="center">
   <img src="/images/LabelCylinder_f.gif" width="60%" /> 
