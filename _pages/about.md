@@ -14,9 +14,9 @@ Pranav grrapple is the front page of a website that is powered by the [academicp
 
 ## Interests 
 * Deep learning 
-* Numerical Methods  
+* Numerical methods for Partial differential equations (PDEs)  
 * Chaos theory
-* Reduced-order modeling (ROM)
+* Deep learning based Reduced-order modeling (ROM)
 * Computational fluid dynamics (CFD)
 
 <center><p float="center">
