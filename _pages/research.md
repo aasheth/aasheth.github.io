@@ -67,15 +67,15 @@ Traditional ROM approaches cannot be expected to efficiently provide good approx
 
 <br/>
 
-# Selected Course Projects
+## Selected Course Projects
 
-## 1. Computational Fluid Dynamics
+### 1. Computational Fluid Dynamics
   * List item one 
       * List item one 
 {: style="text-align: justify;"}
 
 
-## 2. Computational Linear Algebra and Machine Learning
+### 2. Computational Linear Algebra and Machine Learning
   * List item one 
       * List item one 
 {: style="text-align: justify;"}
