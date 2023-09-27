@@ -13,7 +13,7 @@ Pranav ]] is the front page of a website that is powered by the [academicpages t
 {: style="text-align: justify;"}
 
 <figure class="align-right">
-  <img src="/images/LabelCylinder_f.gif" width="40%" alt="">
+  <img src="/images/LabelCylinder_f.gif" alt="">
 </figure>
 ## Interests 
 * Deep learning and Scientific machine learning (SciML) 
