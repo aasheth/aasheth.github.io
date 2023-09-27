@@ -14,8 +14,19 @@ Pranav ]] glppee is the front page of a website that is powered by the [academic
 
 
 <center><p float="center">
-  <img src="/images/LabelCylinder_f.gif" width="68%">
+  <img src="/images/LabelCylinder_f.gif" width="62%">
 </p></center>
+
+
+<center><p float="center">
+  <img src="/images/Dynamical.PNG" width="73%" /> &nbsp; &nbsp; &nbsp; &nbsp;
+</p></center>
+
+<center><p float="center">
+  <img src="/images/QuantumLSTM_combined.png" width="60%" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/images/l63.gif" width="32%" />
+</p></center>
+
 
 
 ## Interests 
@@ -24,13 +35,3 @@ Pranav ]] glppee is the front page of a website that is powered by the [academic
 * Chaos theory and Dynamical systems
 * Deep learning based Reduced-order modeling (ROM)
 * Fluid mechanics and Computational fluid dynamics (CFD)
-
-
-<center><p float="center">
-  <img src="/images/Dynamical.PNG" width="68%" /> &nbsp; &nbsp; &nbsp; &nbsp;
-</p></center>
-
-<center><p float="center">
-  <img src="/images/QuantumLSTM_combined.png" width="60%" /> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/images/l63.gif" width="32%" />
-</p></center>
