@@ -36,7 +36,7 @@ Pranav’s interests lie in the intersection of computational fluid dynamics, ma
 * Numerical methods for Partial differential equations (PDEs)  
 * Chaos theory and Dynamical systems
 * Deep learning based Reduced-order modeling (ROM)
-* Fluid mechanics and Computational fluid dynamics (CFD)
+* Turbulence and Computational fluid dynamics (CFD)
 
 ## Education
 **MSc**, Aerospace Engineering (Master's degree), Imperial College London (ICL), 2022-23
