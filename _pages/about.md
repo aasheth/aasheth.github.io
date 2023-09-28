@@ -32,7 +32,8 @@ Pranav’s interests lie in the intersection of computational fluid dynamics, ma
 
 
 ## Interests 
-* Deep learning and Scientific machine learning (SciML) 
+* Deep learning and Scientific machine learning (SciML)
+* * Quantum Deep learning 
 * Numerical methods for Partial differential equations (PDEs)  
 * Chaos theory and Dynamical systems
 * Deep learning based Reduced-order modeling (ROM)
