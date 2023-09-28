@@ -19,7 +19,7 @@ Pranav ]] glppee is the front page of a website that is powered by the [academic
 
 
 <center><p float="center">
-  <img src="/images/Dynamical.PNG" width="68%" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/images/Dynamical.PNG" width="62%" /> &nbsp; &nbsp; &nbsp; &nbsp;
 </p></center>
 
 <center><p float="center">
@@ -39,7 +39,7 @@ Pranav ]] glppee is the front page of a website that is powered by the [academic
 ## Education
 **MSc**, Aerospace Engineering (Master's degree), Imperial College London (ICL), 2022-23
 <br /> 
-**Concentration:** Advanced Computational Methods for Aeronautics, Flow-management and Fluid-structure interaction
+**Concentration:** Advanced Computational Methods for Aeronautics, Flow-management and Fluid-structure interaction (FSI)
 
-**B.Tech**, Mechanical Engineering (Bachelor's degree), Delhi Technological University (DTU), 2017-21 
+**B.Tech**, Mechanical Engineering, Delhi Technological University (DTU), 2017-21 
 
