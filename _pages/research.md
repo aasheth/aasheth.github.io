@@ -22,7 +22,7 @@ We numerically investigated a model system in which a passively deployable, tors
 
 <center><p float="center">
   <img src="/images/QuantumVc.png" width="50%" /> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/images/l63_expdivLR.gif" width="38%" />
+  <img src="/images/l63_expdivLR.gif" width="32%" />
 </p></center>
 
 ### Classical gated recurrent neural networks - An autonomous dynamical system
@@ -32,7 +32,7 @@ We are currently designing an active flow control counterpart of the above-menti
 
 <center><p float="center">
   <img src="/images/ClassicalGRNN.png" width="40%" /> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/images/l96_web.gif" width="50%" />
+  <img src="/images/l96_web.gif" width="55%" />
 </p></center>
 
 ## 2. Deep learning and Reduced order models (ROMs)
@@ -53,7 +53,7 @@ Recently, deep convolutional autoencoders have been used to construct nonlinear 
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/images/SST_web.gif" width="70%" />
+  <img src="/images/SST_web.gif" width="60%" />
 </p></center>
 
 
