@@ -5,7 +5,8 @@ permalink: /research/
 classes: wide
 ---
  
-Pranav's Computational Fluid Dynamics (CFD) has become an indispensable tool for many engineering applications. Unfortunately, high-fidelity CFD simulations are often so computationally prohibitive that they cannot be used as often as needed or used only in special circumstances rather than routinely. Model order reduction (MOR) is a family of techniques for reducing the computational complexity of such large-scale computational models. This is where the core of my research lies!
+Dynamical systems are encountered within nature through various conformal representations ranging from physical phenomena such as turbulence to bacteria population dynamics to financial investment dynamics to the movement of extraterrestrial planets, etc. The common denominator in all these mutually exclusive examples is the dependence on time (either discrete or continuous) and the evolution of their respective degrees of freedom (DOFs) with time. However, the underlying governing equations that dictate this evolution aren’t always readily accessible or are computationally expensive endeavours. This necessitates the exploration of autonomous
+data-driven algorithms. There have been significant strides in the development of classical computing hardware and, in recent years, quantum computing hardware, which further accelerates the development of these algorithms. This is where the core of my research lies!
 {: style="text-align: justify;"}
 
 
