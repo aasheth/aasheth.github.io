@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: archive
 title: "Research"
 permalink: /research/
 classes: wide
