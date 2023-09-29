@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title:
 permalink: /research/
 classes: wide
 ---
