@@ -10,7 +10,7 @@ classes: wide
 
 
 ## 1. Deep learning and Chaotic dynamical systems
-Pranav control is a process of manipulating the flow to achieve desirable aerodynamic performance.
+Chaotic systems exhibit extreme sensitivity to the initial conditions, which makes it a challenging problem coupled with the range of spatio-temporal characteristics exhibited by the system. These complexities in the dynamics of forecasting/prediction of complex systems are often encountered in various scientific disciplines and are also in their nascent stages for the exploration of machine learning as the gateway. The universality of the deep-learning framework being able to approximate a continuous function (within a specified range) in such cases, i.e. time series problems, raises the idea of being able to formulate an autonomous dynamical system. Hence, so far I have explored the following:  
 {: style="text-align: justify;"}
 
 ### (Ongoing Research Project) Quantum gated recurrent neural networks  
@@ -56,7 +56,7 @@ Recently, deep convolutional autoencoders have been used to construct nonlinear 
 
 
 ## 3. Unmanned Aerial Vehicles
-Traditional ROM approaches cannot be expected to efficiently provide good approximations.
+Fabricated state-of-the-art, all-composite, Vertical Take Off and Landing Unmanned aerial vehicle (VTOL-UAV) with automatic tilt rotor mechanism using Vacuum Bagging process for HADR missions (Mehar Baba Prize competition). Improved the aerodynamic efficiency (Lift/Drag Ratio) of VTOL-UAV by introducing C-curve wing-lets by 10%, thereby enhancing the crashworthiness of the system. Developed the 3D CAD model of the UAV and tilt rotor mechanism on *Solidworks*. Carried out 3D CFD Simulations using *K-omega turbulence model* to evaluate the Coefficient of lift and drag of the VTOL-UAV. Numerical experiments were performed on *ANSYS Fluent* and *OpenFOAM*.
 {: style="text-align: justify;"}
 
 <center><p float="center">
