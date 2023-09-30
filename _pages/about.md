@@ -30,7 +30,7 @@ Pranav Bahl is a master's student at the Dept. of Aeronautics, Imperial College 
 
 ## Interests 
 * Deep learning and Scientific machine learning (SciML)
-* Quantum Deep learning 
+* Quantum deep learning 
 * Numerical methods for Partial differential equations (PDEs)  
 * Chaos theory and Dynamical systems
 * Deep learning based Reduced-order modeling (ROM)
