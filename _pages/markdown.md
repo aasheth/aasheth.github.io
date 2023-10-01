@@ -7,12 +7,14 @@ redirect_from:
   - /markdown.html
 ---
 
-**Location :** London, United Kingdom
+***Location :*** London, United Kingdom
 <br />
-**Email-1 :** pranav.bahl22@imperial.ac.uk
 <br />
-**Email-2 :** pranavbahl.imperial22@gmail.com
+***Email-1 :*** pranav.bahl22@imperial.ac.uk
 <br />
-**Contact UK :** +44 07471677457
+***Email-2 :*** pranavbahl.imperial22@gmail.com
+<br /> 
 <br />
-**Contact India :** +91 9873684026 (*Whatsapp only !*)
+***Contact UK :*** +44 07471677457
+<br />
+***Contact India :*** +91 9873684026 (*Whatsapp only !*)
