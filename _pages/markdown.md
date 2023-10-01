@@ -7,7 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
-
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
+* **Location :** London, United Kingdom
+* **Email-1 :** pranav.bahl22@imperial.ac.uk
+* **Email-2 :** pranavbahl.imperial22@gmail.com
+* **Contact UK :** +44 07471677457
+* **Contact India :** +91 9873684026 (Whatsapp only !)
