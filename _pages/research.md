@@ -35,7 +35,8 @@ We are currently designing an active flow control counterpart of the above-menti
 
 ## 2. Deep learning and Reduced order models (ROMs)
 
-More details about this work can be found [[here]](https://arxiv.org/pdf/1912.10553).
+Physics based high-fidelity predictions demand high spatio-temporal resolutions which leads to the mathematical modeling of large scale complex non-linear phenomenas into a high degree of freedom (DOF) dynamical system. However conventional numerical methods used to develop dicretized solutions give rise to increased utilization of computational resources which is often prohibitive. Hence, the objective of this research is to project high-dimensional space to a lower dimensional space/manifold wherein the reduced representation is the projection of the physical features of a system comparable to FOMs, with minimum loss.
+
 {: style="text-align: justify;"}
 
 ### State estimation using deep learning - Leveraging reduced order models (ROMs)  
