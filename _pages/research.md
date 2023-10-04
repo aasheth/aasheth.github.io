@@ -29,8 +29,8 @@ In this work classical deep-learning frameworks, i.e. gated recurrent neural net
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/images/ClassicalGRNN.png" width="45%" /> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/images/l96_web.gif" width="52%" />
+  <img src="/images/ClassicalGRNN.png" width="40%" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/images/l96_web.gif" width="55%" />
 </p></center>
 
 ## 2. Deep learning and Reduced order models (ROMs)
