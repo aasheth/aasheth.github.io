@@ -48,7 +48,9 @@ design optimization and active flow control. In this work we try to leverage red
 </p></center>
 
 ### Deep learning based effecient data-driven reduced-order model (ROMs) for temporal evolution
-Recently, deep convolutional autoencoders have been used to construct nonlinear manifolds for model order reduction. 
+More details about this work can be found [[here]](https://pranavsciml.github.io/publication/POF_Y2021) 
+
+
 {: style="text-align: justify;"}
 
 <center><p float="center">
