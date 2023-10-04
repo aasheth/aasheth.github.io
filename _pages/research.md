@@ -5,7 +5,7 @@ permalink: /research/
 classes: wide
 ---
  
-***Dynamical systems*** are encountered within nature through various conformal representations ranging from physical phenomena such as turbulence to bacteria population dynamics to financial investment dynamics to the movement of extraterrestrial planets, etc. The common denominator in all these mutually exclusive examples is the *dependence on time (either discrete or continuous)* and the evolution of their respective degrees of freedom (DOFs) with time. However, the underlying governing equations that dictate this evolution aren’t always readily accessible or are computationally expensive endeavours. This necessitates the exploration of autonomous data-driven algorithms. There have been significant strides in the development of classical computing hardware and, in recent years, quantum computing hardware, which further accelerates the development of these algorithms. This is where the core of my research lies!
+***Dynamical systems*** are encountered within nature through various conformal representations ranging from physical phenomena such as turbulence to bacteria population dynamics to financial investment dynamics to the movement of extraterrestrial planets, etc. The common denominator in all these mutually exclusive examples is the *dependence on time (either discrete or continuous)* and the evolution of their respective degrees of freedom (DOFs) with time. However, the underlying governing equations that dictate this evolution aren’t always readily accessible or are computationally expensive endeavours. This necessitates the exploration of autonomous data-driven algorithms. There have been significant strides in the development of classical computing hardware and, in recent years, quantum computing hardware, which further accelerates the development of these algorithms. This is where the core of my research lies !
 {: style="text-align: justify;"}
 
 
@@ -30,7 +30,7 @@ In this work classical deep-learning frameworks, i.e. gated recurrent neural net
 
 <center><p float="center">
   <img src="/images/ClassicalGRNN.png" width="45%" /> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/images/l96_web.gif" width="55%" />
+  <img src="/images/l96_web.gif" width="52%" />
 </p></center>
 
 ## 2. Deep learning and Reduced order models (ROMs)
