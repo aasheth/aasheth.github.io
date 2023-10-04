@@ -48,12 +48,10 @@ design optimization and active flow control. In this work we try to leverage red
 </p></center>
 
 ### Deep learning based effecient data-driven reduced-order model (ROMs) for temporal evolution
-More details about this work can be found [[here]](https://pranavsciml.github.io/publication/POF_Y2021) 
-
-
+In this work we develop a novel deep learning framework DL-ROM (deep learning—reduced order modeling) which is based on a 3D-Unet convolution network capable of performing non-linear projections to reduced order states which is further projected back to the future state of the system, thereby forming a dynamical system. Conventionally ROMs in the literature focussed on linear projection of the higher-order manifolds to lower-dimensional space using dimensionality reduction techniques which often results in loss of information. However, in this work we show, DL-ROM can create highly accurate reconstructions from the low-order manifold and is thus able to efficiently predict future time steps by temporally traversing in the learned reduced state. More details about this work can be found [[here]](https://pranavsciml.github.io/publication/POF_Y2021) 
 {: style="text-align: justify;"}
 
-<center><p float="center">
+<center><p float= "center">
   <img src="/images/SST_web.gif" width="60%" />
 </p></center>
 
