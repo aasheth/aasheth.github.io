@@ -19,7 +19,7 @@ I am currently investigating Quantum machine learning algorithms and their abili
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/images/QuantumVc.png" width="42%" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/images/QuantumVc.png" width="46%" /> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="/images/l63_expdivLR.gif" width="38%" />
 </p></center>
 
@@ -29,7 +29,7 @@ In this work classical deep-learning frameworks, i.e. gated recurrent neural net
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/images/ClassicalGRNN.png" width="40%" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/images/ClassicalGRNN.png" width="45%" /> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="/images/l96_web.gif" width="55%" />
 </p></center>
 
@@ -44,7 +44,7 @@ design optimization and active flow control. In this work we try to leverage red
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/images/JCP.gif" width="60%" />
+  <img src="/images/JCP.gif" width="67%" />
 </p></center>
 
 ### Deep learning based effecient data-driven reduced-order model (ROMs) for temporal evolution
@@ -52,7 +52,7 @@ In this work we develop a novel deep learning framework DL-ROM (deep learning—
 {: style="text-align: justify;"}
 
 <center><p float= "center">
-  <img src="/images/SST_web.gif" width="60%" />
+  <img src="/images/SST_web.gif" width="67%" />
 </p></center>
 
 
@@ -61,7 +61,7 @@ Fabricated state-of-the-art, all-composite, Vertical Take Off and Landing Unmann
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/images/UAV.png" width="80%" />
+  <img src="/images/UAV.png" width="76%" />
 </p></center>
 
 <br/>
