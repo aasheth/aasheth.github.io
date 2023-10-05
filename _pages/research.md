@@ -68,15 +68,15 @@ Fabricated state-of-the-art, all-composite, Vertical Take Off and Landing Unmann
 
 ## Selected Course Projects
 
-### 1. Computational Fluid Dynamics
-  * List item one 
-      * List item one 
+### Computational Fluid Dynamics
+  * Implementation of second & fourth order accurate finite difference schemes for 2D Laplace Equation.
+  * Implementation of a finite-difference FORTRAN code using Adams-Bashforth and Runge-Kutta numerical schemes for 2D compressible Navier-Stokes equations (Flow around cylinder) with periodic boundary conditions.
+  * Carried out 2D/3D CFD simulations around airfoils via vortex lattice method (VLM), Reynolds-averaged Navier–Stokes (RANS) [Turbulence Models: Spallart allamaras, K-Omega SST, k-epsilon] and Spectral/Hp Element Methods via softwares XFOIL, StarCCM+ and Nektar++ respectively.
 {: style="text-align: justify;"}
 
-
-### 2. Computational Linear Algebra and Machine Learning
-  * List item one 
-      * List item one 
+### Computational Linear Algebra and Machine Learning
+  * Implementation of partial/complete pivoting LU factorization via MATLAB for discretized integral equations governing bacteria population dynamics.
+  * Support vector machine (SVM) for NASA asteroid classification.
 {: style="text-align: justify;"}
 
 
