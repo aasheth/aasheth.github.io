@@ -25,7 +25,7 @@ I am currently investigating Quantum machine learning algorithms and their abili
 
 ### Classical gated recurrent neural networks - An autonomous dynamical system !
 
-In this work classical deep-learning frameworks, i.e. gated recurrent neural networks (LSTMs & GRUs) were used to formulate an autonomous chaotic dynamical system. The chaotic dynamical systems used for this purpose were Lorenz'63 and Lorenz'96 system. A novel methodical foundation was laid out for the architectural design of the problem statement, and robust hyper-parameters optimization was carried out via [Recycle validation](https://www.sciencedirect.com/science/article/abs/pii/S0893608021001969) and Bayesian optimization with [TPE sampling](https://optuna.readthedocs.io/en/stable/reference/samplers/generated/optuna.samplers.TPESampler.html#optuna.samplers.TPESampler). The methodology proposed was tested extensively for various metrics, i.e. accurate predictions of (i) the *probability density functions (PDFs)* of the DOFs, (ii) spectral properties visualized via *Discrete Fourier transform (DFT)* analysis, (iii) Capturing of the *Prediction horizon* in terms of the first few *Lyapunov times* and the stability of the chaotic system in terms of the (iv) *Leading Lyapunov exponent* computation. The outcomes of the research will be published soon ... ! 
+In this work classical deep-learning frameworks, i.e. gated recurrent neural networks (LSTMs & GRUs) were used to formulate an autonomous chaotic dynamical system. The chaotic dynamical systems used for this purpose were Lorenz'63 and Lorenz'96 system. A novel methodical foundation was laid out for the architectural design of the problem statement, and robust hyper-parameters optimization was carried out via [Recycle validation](https://www.sciencedirect.com/science/article/abs/pii/S0893608021001969) and Bayesian optimization with [TPE sampling](https://optuna.readthedocs.io/en/stable/reference/samplers/generated/optuna.samplers.TPESampler.html#optuna.samplers.TPESampler). The methodology proposed was tested extensively for various metrics, i.e. accurate predictions of (i) the *probability density functions (PDFs)* of the DOFs, (ii) spectral properties visualized via *Discrete Fourier transform (DFT)* analysis, (iii) Capturing of the *Prediction horizon* in terms of the first few *Lyapunov times* and the stability of the chaotic system in terms of the (iv) *Leading Lyapunov exponent* computation. The outcomes of the research will be published soon ! 
 {: style="text-align: justify;"}
 
 <center><p float="center">
@@ -77,7 +77,10 @@ Fabricated state-of-the-art, all-composite, Vertical Take Off and Landing Unmann
 ### Computational Linear Algebra and Machine Learning
   * Implementation of partial/complete pivoting LU factorization for discretized integral equations governing bacteria population dynamics.
   * Support vector machine (SVM) for NASA asteroid classification.
+  * Convolution NNs for prediction of Angle of Attack of airfoils from 2D snapshots.
+  * Feedforward neural networks to predict mechanical properties of fibre composites. 
   * RNNs & LSTMs for the predictions of air speed based on sequential data from the hot wire measurements in a wind tunnel.
+  
 
 {: style="text-align: justify;"}
 
