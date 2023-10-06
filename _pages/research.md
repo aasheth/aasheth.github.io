@@ -79,7 +79,7 @@ Fabricated state-of-the-art, all-composite, Vertical Take Off and Landing Unmann
   * Support vector machine (SVM) for NASA asteroid classification.
   * Convolution NNs for prediction of Angle of Attack of airfoils from 2D snapshots.
   * Feedforward neural networks to predict mechanical properties of fibre composites. 
-  * RNNs & LSTMs for the predictions of air speed based on sequential data from the hot wire measurements in a wind tunnel.
+  * LSTMs for the predictions of air speed based on sequential data from the hot wire measurements in a wind tunnel.
   
 
 {: style="text-align: justify;"}
