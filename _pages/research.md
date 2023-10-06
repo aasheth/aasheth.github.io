@@ -75,8 +75,10 @@ Fabricated state-of-the-art, all-composite, Vertical Take Off and Landing Unmann
 {: style="text-align: justify;"}
 
 ### Computational Linear Algebra and Machine Learning
-  * Implementation of partial/complete pivoting LU factorization via MATLAB for discretized integral equations governing bacteria population dynamics.
+  * Implementation of partial/complete pivoting LU factorization for discretized integral equations governing bacteria population dynamics.
   * Support vector machine (SVM) for NASA asteroid classification.
+  * Recurrent neural networks for the predictions of air speed based on sequential data from the hot wire measurements in a wind tunnel.
+
 {: style="text-align: justify;"}
 
 
