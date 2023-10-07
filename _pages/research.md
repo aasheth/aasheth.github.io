@@ -75,7 +75,7 @@ Fabricated state-of-the-art, all-composite, Vertical Take Off and Landing Unmann
 {: style="text-align: justify;"}
 
 ### Computational Linear Algebra and Machine Learning
-  * Implementation of partial/complete pivoting LU factorization for discretized integral equations governing bacteria population dynamics.
+  * Implementation of partial/complete pivoting LU factorization algorithms for discretized integral equations.
   * Support vector machine (SVM) for NASA asteroid classification.
   * Convolution NNs for prediction of Angle of Attack of airfoils from 2D snapshots.
   * Feedforward neural networks to predict mechanical properties of fibre composites. 
