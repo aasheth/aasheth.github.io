@@ -49,7 +49,7 @@ Delhi Technological University (DTU), India
 
 
 ## Relevant courses
-### Imperial College London Coursework
+### Imperial College London Courseworks
 * Computational Fluid Dynamics (CFD)
 * Turbulence and Turbulence Modelling
 * Computational Linear Algebra
