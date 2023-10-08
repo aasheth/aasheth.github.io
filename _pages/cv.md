@@ -49,3 +49,10 @@ Delhi Technological University (DTU), India
 
 
 ## Relevant courses
+* Computational Fluid Dynamics (CFD)
+* Turbulence and Turbulence Modelling
+* Computational Linear Algebra
+* Advanced Fluid Mechanics and Fluid Structure Interaction (FSI)
+* Artificial Intelligence/Machine Learning
+* Flow Instability and Transition
+* Systems Engineering
