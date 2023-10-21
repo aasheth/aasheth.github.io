@@ -52,7 +52,7 @@ In this work we develop a novel deep learning framework DL-ROM (deep learning—
 {: style="text-align: justify;"}
 
 <center><p float="center">
-  <img src="/images/LabelCylinder_f.gif" width="62%">
+  <img src="/images/LabelCylinder_f.gif" width="52%">
 </p></center>
 
 
