@@ -26,7 +26,7 @@ Pranav Bahl completed his master's degree from the Dept. of Aeronautics, Imperia
 
 ## Interests 
 * Deep learning and Scientific machine learning (SciML)
-* Quantum deep learning 
+* Quantum deep learning and Variational quantum algorithms
 * Numerical methods for Partial differential equations (PDEs)  
 * Chaos theory and Dynamical systems
 * Deep learning based Reduced-order modeling (ROM)
