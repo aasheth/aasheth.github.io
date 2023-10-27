@@ -17,8 +17,12 @@ redirect_from:
 **MSc**, Aerospace Engineering (Master's degree), Imperial College London (ICL), 2022-23
 <br /> 
 **Concentration:** Advanced Computational Methods for Aeronautics, Flow-management and Fluid-structure interaction
+<br /> 
+**Grade:** Distinction 
 
 **B.Tech**, Mechanical Engineering (Bachelor's degree), Delhi Technological University (DTU), 2017-21 
+<br /> 
+**Grade:** Gpa 8.8 (Out of 10)
 
 ## Experience
 **MSc Thesis Student**,  &nbsp; May 2023--Sept 2023 <br />
