@@ -36,8 +36,10 @@ Pranav Bahl completed his master's degree from the Dept. of Aeronautics, Imperia
 **MSc**, Aerospace Engineering (Master's degree), Imperial College London (ICL), 2022-23
 <br /> 
 **Concentration:** Advanced Computational Methods for Aeronautics, Flow-management and Fluid-structure interaction (FSI)
+<br /> 
 **Grade:** Distinction 
 
 **B.Tech**, Mechanical Engineering, Delhi Technological University (DTU), 2017-21
+<br /> 
 **Grade:** Gpa 8.8 (Out of 10)
 
