@@ -37,11 +37,10 @@ Pranav Bahl completed his master's degree from the Dept. of Aeronautics, Imperia
 <br /> 
 **Concentration:** Advanced Computational Methods for Fluid Mechanics
 <br />
-<br />
 **Grade:** Distinction 
+<br />
 
 **B.Tech**, Mechanical Engineering, Delhi Technological University (DTU), 2017-21
 <br /> 
-<br />
 **Grade:** Gpa 8.8 (Out of 10)
 
