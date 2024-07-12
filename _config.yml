@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pranav's SciML Website"
+title                    : "Naman's AI/ML Site"
 title_separator          : "-"
-name                     : &name "Pranav Bahl"
+name                     : &name "Naman Choudhary"
 description              : &description "personal description"
 url                      : https://Naman-Choudhary-AI-ML.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pranav Bahl"
-  avatar           : "pranav.jpeg"
-  bio              : "MSc Student, Imperial College London"
-  location         : "London, United Kingdom"
-  employer         : #"Imperial College London"
+  name             : "Naman Choudhary"
+  avatar           : "naman.jpg"
+  bio              : "MS Student, Carnegie Mellon University"
+  location         : "Pittsburgh, USA"
+  employer         : "Data Science Intern at O-I Glass"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=gfmnKaUAAAAJ&hl=en&oi=ao"
-  email            : "pranavbahl.imperial22@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=v5qzgPwAAAAJ&hl=en"
+  email            : "namancho@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "PranavSciML"
+  github           : "Naman-Choudhary-AI-ML"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "pranavbahldce/"
-  orcid            : "https://orcid.org/0000-0002-2813-8752"
+  linkedin         : "namanchoudhary/"
+  orcid            : #"https://orcid.org/0000-0002-2813-8752"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
