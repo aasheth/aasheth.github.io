@@ -40,7 +40,7 @@ ICF Consulting, Delhi, India
 
 ## Journal Publications
 Co-authored 8 publications in reputed journals & international conferences on optimization of process parameters, numerical
-analysis & computational fluid dynamics (CFD), achieving **26 citations** (Available on [Google Scholar](https://scholar.google.com/citations?user=v5qzgPwAAAAJ&hl=en)
+analysis & computational fluid dynamics (CFD), achieving **26 citations** (Available on [Google Scholar](https://scholar.google.com/citations?user=v5qzgPwAAAAJ&hl=en))
 
 ## Relevant courses
 ### Carnegie Mellon University Coursework
