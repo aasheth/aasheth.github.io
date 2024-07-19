@@ -9,18 +9,18 @@ redirect_from:
 
 **Location** 
 <br />
-London, United Kingdom
+Pittsburgh, USA (Open to Relocation)
 <br />
 <br />
 **Email-Id :** 
 <br />
-pranav.bahl22@imperial.ac.uk
+namancho@andrew.cmu.edu
 <br />
-pranavbahl.imperial22@gmail.com
+namanchoudhary50@gmail.com
 <br /> 
 <br />
 **Contact**
 <br />
-UK : +44 07471677457
+UK : +1 412 224 3481
 <br />
-India : +91 9873684026 (*Whatsapp only !*)
+India : +91 9958081964 (*Whatsapp only !*)
