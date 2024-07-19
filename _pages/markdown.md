@@ -21,6 +21,6 @@ namanchoudhary50@gmail.com
 <br />
 **Contact**
 <br />
-UK : +1 412 224 3481
+USA : +1 412 224 3481
 <br />
 India : +91 9958081964 (*Whatsapp only !*)
