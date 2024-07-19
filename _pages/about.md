@@ -10,7 +10,19 @@ redirect_from:
 
 
 {: style="text-align: justify;"} 
-Pranav Bahl completed his master's degree from the Dept. of Aeronautics, Imperial College London (ICL) in concentration Advanced Computational Methods for Aeronautics, Fluid mechanics and Fluid-structure interaction. At Imperial, he is primarily exploring autonomous data-driven chaotic dynamical systems utilizing classical and quantum recurrent neural networks. His courseworks at Imperial ranged from Turbulence/Turbulence modeling, Computational fluid dynamics (CFD) to Machine learning/Artificial intelligence and Computational linear algebra. Previously, he completed his bachelor’s from the Dept. of Mechanical Engineering, Delhi Technological University (DTU). During his bachelor's degree he was primarily interested in exploring Deep learning based Reduced order models (ROMs) for large scale, physics-based high-fidelity simulations either for autonmous evolution of discretized PDEs or for the state-estimation problems. Pranav’s interests lies in the intersection of Scientific computing/machine learning, Deep learning and Optimization algorithms, where he aims to enhance interpretability of these black-box models with applications pertaining to complex high-order physical phenomena, since deep learning architectures alone cannot be relied upon to be used as a black-box with little or no information of the principles behind the physics of the problems.
+I am an experienced Data Scientist currently pursuing my Master’s at Carnegie Mellon University focusing on Artificial Intelligence applications. With 1.7 years as an Energy Analyst in a dynamic management consulting environment, and currently interning as a Data Scientist at O-I, I am honing my skills in AI and ML to solve real-world problems. I am actively seeking full-time roles in Data Science, Machine Learning, and Artificial Intelligence starting May 2025.
+
+Passionate about problem-solving, I believe that good problem solvers excel across all domains. As new technologies and challenges emerge, my goal is to adapt and leverage AI as a powerful tool in my problem-solving repertoire. This drive brought me to CMU, where I am dedicated to expanding my skillset in AI and ML. My aim is to be the go-to person for data-centric problem-solving, utilizing my strong foundation in mathematics and data science.
+
+Skills:
+Languages: Python, C, C++, OpenGL, LaTeX, SQL
+Machine Learning & Deep Learning: Scikit-learn, Pandas, Numpy, PyTorch, SciPy, TensorFlow, CUDA
+NLP: Hugging Face Transformers, LangChain
+Other: Consistently expanding my skillset and quickly adapting to new tools
+
+In my spare time, I enjoy playing chess, as it continuously challenges my problem-solving abilities. I also aspire to live and work across different countries to truly experience and understand diverse cultures beyond tourism.
+
+Beyond technical skills, I foster an environment of inclusivity and communal learning, believing that the most challenging problems can only be solved through collective expertise. I am always eager to connect with like-minded individuals and discuss any problem-solving opportunities. If you bring a challenging problem to me, consider it a favor, as it truly excites me.
 {: style="text-align: justify;"}
 
 <center><p float="center">
