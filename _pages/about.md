@@ -37,22 +37,20 @@ Beyond technical skills, I foster an environment of inclusivity and communal lea
 
 
 ## Interests 
+* Financial Time Series Forecasting
+* Large Language Models
+* Generative AI
 * Deep learning and Scientific machine learning (SciML)
-* Quantum deep learning and Variational quantum algorithms (VQAs)
 * Numerical methods for Partial differential equations (PDEs)  
-* Chaos theory and Dynamical systems
 * Deep learning based Reduced-order modeling (ROM)
-* Turbulence and Computational fluid dynamics (CFD)
 
 ## Education
-**MSc**, Aerospace Engineering (Master's degree), Imperial College London (ICL), 2022-23
+**MS**, Mechanical Engineering (focusing on Artificial Intelligence Applications) (Master's degree), Carnegie Mellon University, 2023-25
 <br /> 
-**Concentration:** Advanced Computational Methods for Fluid Mechanics
-<br />
-**Grade:** Distinction 
-<br />
-
-**B.Tech**, Mechanical Engineering, Delhi Technological University (DTU), 2017-21
+**Concentration:** Artificial Intelligence Applications - Large Language Models, Generative AI, Time Series Forecasting
 <br /> 
-**Grade:** Gpa 8.8 (Out of 10)
+**Grade:** 3.96/4.0 GPA 
 
+**B.Tech**, Mechanical Engineering (Bachelor's degree), Delhi Technological University (DTU), 2017-21 
+<br /> 
+**Grade:** Gpa 8.75 (Out of 10)
