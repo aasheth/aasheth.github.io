@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Full Resume](/images/Naman_Choudhary_Resume.pdf){: .btn .btn--info} (updated July 2024)
+[Download Full Resume](/images/Naman_Choudhary_Resume_CMU.pdf){: .btn .btn--info} (updated July 2024)
 {% include feature_row %}
 
 # Summary
