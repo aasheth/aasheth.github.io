@@ -30,8 +30,7 @@ Beyond technical skills, I foster an environment of inclusivity and communal lea
 </p></center>
 
 <center><p float="center">
-<!--   <img src="/images/QuantumLSTM_combined.png" width="60%" /> &nbsp; &nbsp; &nbsp; &nbsp; -->
-  <img src="/images/Kalman_Filter.gif" width="100%" />
+  <img src="/images/Kalman_Filter.gif" width="80%" />
 </p></center>
 
 
