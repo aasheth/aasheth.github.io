@@ -15,12 +15,9 @@ Pittsburgh, USA (Open to Relocation)
 **Email-Id :** 
 <br />
 namancho@andrew.cmu.edu
-<br />
-namanchoudhary50@gmail.com
 <br /> 
 <br />
 **Contact**
 <br />
 USA : +1 412 224 3481
-<br />
-India : +91 9958081964 (*Whatsapp only !*)
+
