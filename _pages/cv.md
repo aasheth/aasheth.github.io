@@ -9,46 +9,71 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Full Resume](/images/Naman_Choudhary_Resume_CMU.pdf){: .btn .btn--info} (updated July 2024)
-{% include feature_row %}
+[Download Full Resume](/images/Naman_Choudhary_Resume_CMU_Nov_2024.pdf){: .btn .btn--info} (updated Nov 2024)
+
+---
 
 # Summary
+
 ## Education
-**MS**, Mechanical Engineering (focusing on Artificial Intelligence Applications) (Master's degree), Carnegie Mellon University, 2023-25
-<br /> 
-**Concentration:** Artificial Intelligence Applications - Large Language Models, Generative AI, Time Series Forecasting
-<br /> 
-**Grade:** 3.96/4.0 GPA 
+- **MS**, Mechanical Engineering (Artificial Intelligence focus), Carnegie Mellon University, Aug 2023 – May 2025  
+  **GPA**: 3.96/4.0  
+  **Concentration**: Generative AI, Large Language Models, Deep Learning, and NLP  
+  **TA Role**: Teaching Assistant for *Mathematical & Computational Foundations for ML*
 
-**B.Tech**, Mechanical Engineering (Bachelor's degree), Delhi Technological University (DTU), 2017-21 
-<br /> 
-**Grade:** Gpa 8.75 (Out of 10)
+- **B.Tech**, Mechanical Engineering, Delhi Technological University (DTU), Aug 2017 – Jul 2021  
+  **GPA**: 8.75/10  
 
-## Experience
-**Data Science Intern - Sustainability**,  &nbsp; May 2025--ongoing <br />
-O-I Glass, Pittsburgh, USA
+---
 
-**Energy Analyst**,  &nbsp; Nov 2021--Jun 2023 <br />
-ICF Consulting, Delhi, India
+## Professional Experience
+- **Graduate Student Researcher**, CMU Machine Learning Dept.  
+  - Integrated Geo-FNO into PDE solvers, achieving **2.7x lower error** compared to traditional methods.
+  - Automated dataset generation with OpenFOAM, producing 2,500+ samples for irregular geometries.
+
+- **Data Science Intern**, O-I Glass, Pittsburgh  
+  - Streamlined workflows by converting Excel models to Python scripts, reducing processing time by **90%**.  
+  - Built an end-to-end pipeline using **Azure ML, SAP HANA**, and **Databricks**, saving **300+ hours annually**.  
+  - Created CO2 emission models, aiding executive leadership in sustainability strategies.
+
+- **Energy Analyst**, ICF Consulting  
+  - Contributed to energy models showing pathways to reduce India’s import bill by **$20B**.  
+  - Specialized in hydrogen adoption studies, receiving the prestigious ‘Bronze Award.’  
+
+---
+
+## Key Projects
+1. **Physics-Informed Diffusion Models for Physics-Based Data Generation**  
+   Integrated physical constraints into denoising diffusion models, improving data adherence to governing equations by **20%**.
+
+2. **Fine-tuning LLaVA for Scientific Visual Question Answering**  
+   Adapted multimodal models for scientific imagery and charts, achieving **92.5% accuracy** on Science QA datasets.
+
+3. **Retrieval-Augmented Generation (RAG) for Factual Q&A**  
+   Built a factual Q&A pipeline combining document retrieval and LLMs, optimizing for relevance and reducing hallucinations.
+
+4. **Reinforcement Learning for Portfolio Management**  
+   Developed a time-series forecasting model for financial decision-making using advanced RL techniques.
+
+---
 
 ## Skills
+- **Languages**: Python, C++, SQL, Julia, LaTeX  
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, CUDA, Azure ML, OpenFOAM  
+- **NLP**: Hugging Face Transformers, LangChain, Generative AI, Retrieval-Augmented Generation  
+- **Data Visualization**: PowerBI, Streamlit  
+- **Cloud Platforms**: AWS, GCP, Databricks  
 
-**Languages**: Python, C and C++, OpenGL, LaTeX, SQL <br />
-**Machine Learning & Deep Learning**: Scikit-learn, Pandas, Numpy, Pytorch, SciPy, TensorFlow, CUDA, Azure ML <br />
-**Natural Language Processing**: Hugging Face Transformers, LangChain <br />
-**Other tools**: Excel, PowerPoint, PowerBI (Data Visualization), Cloud Environments (AWS, GCP), Weights & Biases (wandb) <br />
+---
 
-## Journal Publications
-Co-authored 8 publications in reputed journals & international conferences on optimization of process parameters, numerical
-analysis & computational fluid dynamics (CFD), achieving **26 citations** (Available on [Google Scholar](https://scholar.google.com/citations?user=v5qzgPwAAAAJ&hl=en))
+## Publications
+Co-authored **8 research papers** in journals and conferences on optimization and CFD, achieving **26 citations**. [Google Scholar](https://scholar.google.com/citations?user=v5qzgPwAAAAJ&hl=en)
 
-## Relevant courses
-### Carnegie Mellon University Coursework
-* Mathematical Foundation for ML
-* Computational Foundation for ML
-* ML and AI for Engineers
-* Engineering Computation (C++)
-* Introduction to Deep Learning
-* ML and AI for Engineers: Project
-* Advanced NLP
-* Generative AI
+---
+
+## Interests
+- **Research Areas**: Generative AI, Physics-Informed ML, NLP, and Reinforcement Learning.  
+- **Personal Interests**: Passionate about **AI applications in engineering and beyond**, leveraging AI to solve real-world challenges.
+
+---
+
