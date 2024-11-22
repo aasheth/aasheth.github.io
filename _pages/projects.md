@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Projects"
+title: "Projects Overview"
 permalink: /projects/
 classes: wide
 ---
-# Projects Overview
 
 Explore some of the impactful projects I’ve worked on, showcasing the application of advanced computational techniques to solve real-world problems. Click on each project title to learn more about its goals, methodology, and outcomes.
 
