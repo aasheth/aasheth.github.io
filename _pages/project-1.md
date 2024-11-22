@@ -58,4 +58,3 @@ This project successfully implements Geo-FNO for handling irregular geometries, 
 
 ---
 
-**Note**: Ensure the image `geofno.png` is uploaded to the `files/` directory and replace `path/to/geofno.png` with the actual file path, such as `/files/geofno.png`.
