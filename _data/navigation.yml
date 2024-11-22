@@ -5,9 +5,19 @@ main:
 
   #- title: "Teaching"
   #  url: /teaching/    
-  
-  - title: "Research"
-    url: /research/ 
+  - title: "Projects"
+    url: /projects/
+    children:
+      - title: "Project 1"
+        url: /projects/project-1/
+      - title: "Project 2"
+        url: /projects/project-2/
+      - title: "Project 3"
+        url: /projects/project-3/
+      - title: "Project 4"
+        url: /projects/project-4/
+  #- title: "Research"
+  #  url: /research/ 
   
   - title: "Publications"
     url: /publications/
