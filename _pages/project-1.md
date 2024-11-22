@@ -5,8 +5,6 @@ permalink: /projects/project-1/
 classes: wide
 ---
 
-# Open-Source GeoFNO Implementation for Irregular Geometries in PDE Solvers
-
 ## Introduction
 
 Partial differential equations (PDEs) are essential for simulating physical phenomena across fields such as engineering, environmental science, and healthcare. They enable us to model complex processes like fluid flow in engines, pollutant dispersion in the air, and blood circulation in arteries. However, traditional PDE solvers are limited in handling irregular geometries, which constrains their effectiveness in real-world applications. This project aims to overcome this limitation by implementing Geo-FNO, a neural operator designed specifically for irregular geometries, within the Unified PDE Solver (UPS) framework. By developing this open-source solution with OpenFOAM, we seek to provide accessible, accurate, and scalable simulation capabilities, empowering researchers and engineers to tackle complex, geometry-sensitive problems more effectively. This advancement has the potential to improve safety in infrastructure, promote environmental sustainability, and enhance healthcare outcomes by enabling simulations that are closer to real-world scenarios.
