@@ -5,10 +5,6 @@ permalink: /projects/project-2/
 classes: wide
 ---
 
-# Developing a Retrieval-Augmented Generation (RAG) System for Factual Question-Answering
-
----
-
 ## Introduction
 
 The Retrieval-Augmented Generation (RAG) approach combines retrieval mechanisms with large language models (LLMs) to enhance factual question-answering capabilities by incorporating relevant external documents. This project develops a RAG system to answer questions about Pittsburgh and Carnegie Mellon University (CMU). Our system aims to provide an accessible tool where users can instantly retrieve concise answers from extensive documents without manually searching through them, making it highly valuable for students, researchers, and the general public.
