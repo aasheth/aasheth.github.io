@@ -5,10 +5,6 @@ permalink: /projects/project-3/
 classes: wide
 ---
 
-# Fine-tuning LLaVA for Scientific and Chart-Based Visual Question Answering
-
----
-
 ## Introduction
 
 LLaVA (Large Language and Vision Assistant) is a multimodal model developed by connecting a visual encoder with a language model for comprehensive visual and language understanding. Built to interpret complex vision-and-language instructions, LLaVA incorporates GPT-4-generated multimodal instruction data to address a wide range of visual understanding tasks, achieving state-of-the-art performance in visual question answering (VQA). Our project aims to fine-tune LLaVA for scientific visual content, including image data from research and scientific charts, enhancing its capabilities for scientific analysis and chart-based questions.
