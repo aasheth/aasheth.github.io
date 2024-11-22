@@ -5,10 +5,6 @@ permalink: /projects/project-4/
 classes: wide
 ---
 
-# Physics-Informed Diffusion Models for Physics-Based Data Generation
-
----
-
 ## Introduction
 
 Physics-Informed Diffusion Models (PIDMs) incorporate physical laws directly into the generative model’s training process, ensuring that generated data respects the governing equations associated with physical phenomena. Traditional diffusion models, though powerful, have lacked mechanisms to embed physical constraints into the data generation process. This project addresses this gap by integrating physics-based loss terms into the diffusion model training, enabling the generation of data that aligns with specific physical principles, such as partial differential equations (PDEs).
