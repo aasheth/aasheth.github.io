@@ -7,18 +7,22 @@ classes: wide
 
 ## Introduction
 
+{: style="text-align: justify;"}
 Physics-Informed Diffusion Models (PIDMs) incorporate physical laws directly into the generative model’s training process, ensuring that generated data respects the governing equations associated with physical phenomena. Traditional diffusion models, though powerful, have lacked mechanisms to embed physical constraints into the data generation process. This project addresses this gap by integrating physics-based loss terms into the diffusion model training, enabling the generation of data that aligns with specific physical principles, such as partial differential equations (PDEs).
 
-**Social Impact**: This framework is critical for scientific fields where the accuracy of generated data depends on adherence to physical laws, such as engineering simulations, environmental modeling, and material science. By ensuring that generated datasets follow physics principles, PIDMs reduce reliance on costly simulations and provide researchers with reliable synthetic data that aligns with real-world physics.
+{: style="text-align: justify;"}
+**Social Impact**: By ensuring that generated datasets follow physics principles, PIDMs can transform fields such as engineering simulations, environmental modeling, and material science. They provide researchers with cost-effective, reliable synthetic data that adheres to real-world physics, reducing reliance on computationally expensive simulations and promoting advancements in scientific understanding and innovation.
 
 ---
 
 ## Methodology
 
+{: style="text-align: justify;"}
 Our approach involves augmenting standard denoising diffusion models with loss terms based on physical constraints, specifically PDE residuals, to enforce adherence to physics-based principles during data generation.
 
 ### Data Collection and Preparation
 
+{: style="text-align: justify;"}
 I was responsible for generating the Darcy flow dataset using OpenFOAM, simulating steady-state fluid flow in porous media. This dataset was structured to facilitate training in the diffusion model. My teammate, in parallel, developed a dataset for topology optimization, broadening the applicability of the model to other physics-based domains.
 
 ![Residual Approximation in PIDM](/images/approximation_residual.png)  
@@ -28,6 +32,7 @@ I was responsible for generating the Darcy flow dataset using OpenFOAM, simulati
 
 ### Model Training
 
+{: style="text-align: justify;"}
 To integrate physics into the model, we collaboratively worked on incorporating a physics-based loss function that penalizes deviations from the governing equations. The training involved two main components:
 
 - **Physics-based Loss**: This loss term was introduced to ensure that the generated samples adhere to physical constraints, such as boundary conditions and PDE residuals. The loss was specifically crafted to integrate finite differences to evaluate physics consistency over each generated sample.
@@ -40,6 +45,7 @@ To integrate physics into the model, we collaboratively worked on incorporating 
 
 ## Results
 
+{: style="text-align: justify;"}
 The physics-informed diffusion model demonstrated significant improvements in generating physically consistent data:
 
 - **PDE Residuals Reduction**: The physics-informed model reduced PDE residuals by over two orders of magnitude compared to traditional diffusion models, as evaluated on the Darcy flow dataset.
@@ -50,6 +56,7 @@ The physics-informed diffusion model demonstrated significant improvements in ge
 
 ## Discussion and Future Directions
 
+{: style="text-align: justify;"}
 Our results illustrate the feasibility of using diffusion models for physics-based data generation, overcoming limitations in previous data-driven models. This model can potentially serve as a resource for generating high-fidelity, physics-consistent datasets, which can support applications in scientific research and engineering design.
 
 ### Future Work:
@@ -58,4 +65,3 @@ Our results illustrate the feasibility of using diffusion models for physics-bas
 - Integrating more sophisticated sampling techniques to further enhance the efficiency of the model while maintaining adherence to physics-based principles.
 
 ---
-
