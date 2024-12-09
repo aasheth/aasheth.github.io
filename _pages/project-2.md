@@ -7,14 +7,17 @@ classes: wide
 
 ## Introduction
 
+{: style="text-align: justify;"}
 The Retrieval-Augmented Generation (RAG) approach combines retrieval mechanisms with large language models (LLMs) to enhance factual question-answering capabilities by incorporating relevant external documents. This project develops a RAG system to answer questions about Pittsburgh and Carnegie Mellon University (CMU). Our system aims to provide an accessible tool where users can instantly retrieve concise answers from extensive documents without manually searching through them, making it highly valuable for students, researchers, and the general public.
 
-**Social Impact**: By streamlining access to information within lengthy documents, this RAG pipeline holds significant potential for enhancing productivity and information accessibility. In future work, we plan to fine-tune this system for scientific and engineering domains, allowing researchers, engineers, and students to quickly obtain insights from academic papers or critical technical documents, saving time and facilitating knowledge discovery across complex datasets.
+{: style="text-align: justify;"}
+**Social Impact**: This RAG system revolutionizes how users access information, saving significant time and effort. For students and researchers, it enables quick insights from academic or technical documents, removing barriers to knowledge discovery. By adapting this tool for scientific and engineering domains, it has the potential to accelerate innovation, foster cross-disciplinary collaboration, and democratize access to critical technical knowledge, empowering users worldwide.
 
 ---
 
 ## Method
 
+{: style="text-align: justify;"}
 This RAG system integrates document retrieval with sequence-to-sequence generation for an end-to-end question-answering framework. My contributions included setting up dataset embeddings, constructing the RAG model pipeline, conducting ablations on datasets and models, and verifying test data accuracy. My teammate managed data scraping, dataset creation with various chunking strategies, crafting Q&A pairs, and initial Q&A pair annotation.
 
 ### Approach:
@@ -34,6 +37,7 @@ This RAG system integrates document retrieval with sequence-to-sequence generati
 
 ## Results
 
+{: style="text-align: justify;"}
 The RAG system’s performance was evaluated using Exact Match (EM) and F1 scores. Key findings include:
 
 - **Optimal Chunking Strategy**: 5-sentence chunking achieved the highest EM (46.00%) and F1 score (0.62), providing the right balance of context and efficiency.
@@ -41,12 +45,14 @@ The RAG system’s performance was evaluated using Exact Match (EM) and F1 score
 - **Short vs. Long Answers**: Short answers (3-4 words) improved EM by 10%, showing that concise responses better align with the evaluation metrics.
 - **Language Model Performance**: Flan-T5-xl outperformed Flan-T5-large, suggesting that larger models offer slight accuracy gains, though at a cost in memory usage.
 
+{: style="text-align: justify;"}
 These results underscore the RAG system's ability to provide accurate, context-specific answers while remaining efficient, making it suitable for real-time question-answering applications.
 
 ---
 
 ## Discussion and Future Directions
 
+{: style="text-align: justify;"}
 This project demonstrates that RAG systems can be tailored for specific domains like localized knowledge retrieval, helping users access factual and community-centered information. The open-source structure of this pipeline encourages its adaptation and use in educational contexts.
 
 ### Future Work:
@@ -60,4 +66,3 @@ This project demonstrates that RAG systems can be tailored for specific domains 
 *Figure 2: The Self-RAG model selectively retrieves context based on query relevance, enhancing response accuracy and minimizing irrelevant information—a critical feature for specialized domains like engineering question-answering.*
 
 ---
-
