@@ -63,11 +63,13 @@ redirect_from:
 
 | **Category**         | **Skills**                                                                 |
 |-----------------------|---------------------------------------------------------------------------|
-| **Languages**         | Python, C++, SQL, Julia, LaTeX                                           |
+| **Languages**         | Python, C++, SQL, LaTeX, Julia                                           |
 | **Machine Learning**  | Scikit-learn, TensorFlow, PyTorch, CUDA, Azure ML, OpenFOAM              |
 | **NLP**               | Hugging Face Transformers, LangChain, Generative AI, Retrieval-Augmented Generation |
 | **Data Visualization**| PowerBI, Streamlit                                                      |
 | **Cloud Platforms**   | AWS, GCP, Databricks                                                    |
+| **Other Tools**       | Excel, PowerPoint, wandb                                                |
+
 
 ---
 
