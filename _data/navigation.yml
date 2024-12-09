@@ -1,10 +1,8 @@
-# main links links
+# Main navigation links
 main:
-  #- title: "Talks"
-  #  url: /talks/    
-
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "About"
+    url: /about/
+    
   - title: "Projects"
     url: /projects/
     children:
@@ -16,17 +14,12 @@ main:
         url: /projects/project-3/
       - title: "Project 4"
         url: /projects/project-4/
-  #- title: "Research"
-  #  url: /research/ 
   
-  - title: "Publications"
-    url: /publications/
-  
+  - title: "Experience"
+    url: /experience/
+
   - title: "Resume"
     url: /cv/
-    
-  # - title: "Codes"
-  #   url: /year-archive/
     
   - title: "Contact"
     url: /markdown/
