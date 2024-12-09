@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 {: style="text-align: justify;"}
-I am a Data Scientist and Master's student at Carnegie Mellon University, specializing in Artificial Intelligence and Machine Learning applications. With 1.7 years of experience as an Energy Analyst in management consulting and a current internship as a Data Scientist at O-I, I apply AI to solve real-world challenges. My goal is to become a leading problem-solver, leveraging data science and machine learning to tackle sustainability, technology, and engineering problems.
+I am an experienced Data Scientist currently pursuing my Master’s at Carnegie Mellon University focusing on Artificial Intelligence applications. With 1.7 years as an Energy Analyst in a dynamic management consulting environment, and having interned as a Data Scientist at O-I, I am honing my skills in AI and ML to solve real-world problems. I am actively seeking full-time roles in Data Science, Machine Learning, and Artificial Intelligence starting May 2025. My academic focus includes large language models, generative AI, and numerical methods for PDEs, aligning with my interest in bridging scientific machine learning and practical applications.
 
-Passionate about lifelong learning, I excel at quickly adapting to new tools and techniques. My academic focus includes large language models, generative AI, and numerical methods for PDEs, aligning with my interest in bridging scientific machine learning and practical applications.
+Passionate about problem-solving, I believe that good problem solvers excel across all domains. As new technologies and challenges emerge, my goal is to adapt and leverage AI as a powerful tool in my problem-solving repertoire. This drive brought me to CMU, where I am dedicated to expanding my skillset in AI and ML. My aim is to be the go-to person for data-centric problem-solving, utilizing my strong foundation in mathematics and data science.
 
-In addition to technical pursuits, I value inclusivity and collaboration, believing that diverse expertise is key to solving the world’s most pressing problems. Let’s connect to discuss innovative solutions and opportunities.
+In my spare time, I enjoy playing chess, as it continuously challenges my problem-solving abilities. I also aspire to live and work across different countries to truly experience and understand diverse cultures beyond tourism.
+
+Beyond technical skills, I foster an environment of inclusivity and communal learning, believing that the most challenging problems can only be solved through collective expertise. I am always eager to connect with like-minded individuals and discuss any problem-solving opportunities. If you bring a challenging problem to me, consider it a favor, as it truly excites me.
 {: style="text-align: justify;"}
 
 ---
