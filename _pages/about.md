@@ -1,55 +1,66 @@
 ---
 permalink: /
-title: "Biography"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+{: style="text-align: justify;"}
+I am a Data Scientist and Master's student at Carnegie Mellon University, specializing in Artificial Intelligence and Machine Learning applications. With 1.7 years of experience as an Energy Analyst in management consulting and a current internship as a Data Scientist at O-I, I apply AI to solve real-world challenges. My goal is to become a leading problem-solver, leveraging data science and machine learning to tackle sustainability, technology, and engineering problems.
 
-{: style="text-align: justify;"} 
-I am an experienced Data Scientist currently pursuing my Master’s at Carnegie Mellon University focusing on Artificial Intelligence applications. With 1.7 years as an Energy Analyst in a dynamic management consulting environment, and currently interning as a Data Scientist at O-I, I am honing my skills in AI and ML to solve real-world problems. I am actively seeking full-time roles in Data Science, Machine Learning, and Artificial Intelligence starting May 2025.
+Passionate about lifelong learning, I excel at quickly adapting to new tools and techniques. My academic focus includes large language models, generative AI, and numerical methods for PDEs, aligning with my interest in bridging scientific machine learning and practical applications.
 
-Passionate about problem-solving, I believe that good problem solvers excel across all domains. As new technologies and challenges emerge, my goal is to adapt and leverage AI as a powerful tool in my problem-solving repertoire. This drive brought me to CMU, where I am dedicated to expanding my skillset in AI and ML. My aim is to be the go-to person for data-centric problem-solving, utilizing my strong foundation in mathematics and data science.
-
-Skills:
-Languages: Python, C, C++, OpenGL, LaTeX, SQL
-Machine Learning & Deep Learning: Scikit-learn, Pandas, Numpy, PyTorch, SciPy, TensorFlow, CUDA
-NLP: Hugging Face Transformers, LangChain
-Other: Consistently expanding my skillset and quickly adapting to new tools
-
-In my spare time, I enjoy playing chess, as it continuously challenges my problem-solving abilities. I also aspire to live and work across different countries to truly experience and understand diverse cultures beyond tourism.
-
-Beyond technical skills, I foster an environment of inclusivity and communal learning, believing that the most challenging problems can only be solved through collective expertise. I am always eager to connect with like-minded individuals and discuss any problem-solving opportunities. If you bring a challenging problem to me, consider it a favor, as it truly excites me.
+In addition to technical pursuits, I value inclusivity and collaboration, believing that diverse expertise is key to solving the world’s most pressing problems. Let’s connect to discuss innovative solutions and opportunities.
 {: style="text-align: justify;"}
 
-<center><p float="center">
-  <img src="/images/Dynamical.PNG" width="62%" /> &nbsp; &nbsp; &nbsp; &nbsp;
-</p></center>
+---
 
-<center><p float="center">
-  <img src="/images/Kalman_Filter.gif" width="80%" />
-</p></center>
+## Skills
+### Programming Languages
+- **Python**, **C**, **C++**, **OpenGL**, **LaTeX**, **SQL**
 
+### Machine Learning & Deep Learning
+- **Scikit-learn**, **Pandas**, **NumPy**, **PyTorch**, **SciPy**, **TensorFlow**, **CUDA**
 
+### Natural Language Processing (NLP)
+- **Hugging Face Transformers**, **LangChain**
 
-## Interests 
-* Financial Time Series Forecasting
-* Large Language Models
-* Generative AI
-* Deep learning and Scientific machine learning (SciML)
-* Numerical methods for Partial differential equations (PDEs)  
-* Deep learning based Reduced-order modeling (ROM)
+### Other Skills
+- Consistently expanding my skillset and quickly adapting to new tools
+
+---
+
+<center>
+<p float="center">
+  <img src="/images/Dynamical.PNG" width="62%" alt="Dynamical system visualization" />
+</p>
+</center>
+
+<center>
+<p float="center">
+  <img src="/images/Kalman_Filter.gif" width="80%" alt="Kalman Filter Simulation" />
+</p>
+</center>
+
+---
+
+## Interests
+- Financial Time Series Forecasting
+- Large Language Models
+- Generative AI
+- Deep Learning and Scientific Machine Learning (SciML)
+- Numerical Methods for Partial Differential Equations (PDEs)
+- Deep Learning-based Reduced-order Modeling (ROM)
+
+---
 
 ## Education
-**MS**, Mechanical Engineering (focusing on Artificial Intelligence Applications) (Master's degree), Carnegie Mellon University, 2023-25
-<br /> 
-**Concentration:** Artificial Intelligence Applications - Large Language Models, Generative AI, Time Series Forecasting
-<br /> 
-**Grade:** 3.96/4.0 GPA 
+**MS**, Mechanical Engineering (focusing on Artificial Intelligence Applications), Carnegie Mellon University (2023–25)  
+**Concentration:** Artificial Intelligence Applications - Large Language Models, Generative AI, Time Series Forecasting  
+**GPA:** 3.96/4.0  
 
-**B.Tech**, Mechanical Engineering (Bachelor's degree), Delhi Technological University (DTU), 2017-21 
-<br /> 
-**Grade:** Gpa 8.75 (Out of 10)
+**B.Tech**, Mechanical Engineering, Delhi Technological University (DTU) (2017–21)  
+**Grade:** GPA 8.75/10  
