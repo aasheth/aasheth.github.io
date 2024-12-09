@@ -25,8 +25,8 @@ main:
   - title: "Resume"
     url: /cv/
     
-  - title: "Codes"
-    url: /year-archive/
+  # - title: "Codes"
+  #   url: /year-archive/
     
   - title: "Contact"
     url: /markdown/
