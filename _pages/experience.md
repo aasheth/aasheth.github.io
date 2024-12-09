@@ -5,10 +5,6 @@ permalink: /experience/
 author_profile: true
 ---
 
-# Professional Experience
-
----
-
 ## **Graduate Student Researcher**  
 **Carnegie Mellon University, Machine Learning Department**  
 *Aug 2024 – Present (Research for Credits)*  
