@@ -43,11 +43,14 @@ author_profile: true
 
 # Skills Summary
 
-| **Languages**       | Python, C++, SQL, LaTeX, Julia           |  
-|----------------------|------------------------------------------|  
-| **Machine Learning** | Scikit-learn, TensorFlow, PyTorch, Azure ML, OpenFOAM |  
-| **NLP**             | Hugging Face Transformers, LangChain, Generative AI |  
-| **Data Visualization** | PowerBI, Streamlit                     |  
-| **Cloud Platforms**  | AWS, GCP, Databricks                    |
+| **Category**         | **Skills**                                                                 |
+|-----------------------|---------------------------------------------------------------------------|
+| **Languages**         | Python, C++, SQL, LaTeX, Julia                                           |
+| **Machine Learning**  | Scikit-learn, TensorFlow, PyTorch, CUDA, Azure ML, OpenFOAM              |
+| **NLP**               | Hugging Face Transformers, LangChain, Generative AI, Retrieval-Augmented Generation |
+| **Data Visualization**| PowerBI, Streamlit                                                      |
+| **Cloud Platforms**   | AWS, GCP, Databricks                                                    |
+| **Other Tools**       | Excel, PowerPoint, wandb                                                |
+
 
 ---
