@@ -22,8 +22,11 @@ redirect_from:
   - **GPA**: 4.0/4.0  
   - **Concentration**: Optimal Control, Robotics, Machine Learning (beginner)  
 
-- **B.Tech + M.Tech** in Engineering Design, Indian Institute of Technology Madras (IITM), Jul 2018 – May 2023  
-  - **GPA**: 3.69/4.0  
+- **Dual Degree** in Engineering Design, Indian Institute of Technology Madras (IITM), Jul 2018 – May 2023  
+  - **M.Tech** in Automotive Engineering
+  - **B.Tech** in Engineering Design
+  - **GPA** (Scholaro): 3.69/4.0
+  - **Teaching Assistant**: Introduction to Computation and Visualization (ED1021), Data Science: Theory and Practice
 
 ---
 
