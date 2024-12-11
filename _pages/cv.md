@@ -18,13 +18,12 @@ redirect_from:
 ---
 
 ### **Education**  
-- **MS**, Mechanical Engineering (Artificial Intelligence focus), Carnegie Mellon University, Aug 2023 – May 2025  
-  - **GPA**: 3.96/4.0  
-  - **Concentration**: Generative AI, Large Language Models, Deep Learning, and NLP  
-  - **TA Role**: Teaching Assistant for *Mathematical & Computational Foundations for ML*
+- **MS** in Mechanical Engineering, Carnegie Mellon University, Aug 2023 – May 2025  
+  - **GPA**: 4.0/4.0  
+  - **Concentration**: Optimal Control, Robotics, Machine Learning (beginner)  
 
-- **B.Tech**, Mechanical Engineering, Delhi Technological University (DTU), Aug 2017 – Jul 2021  
-  - **GPA**: 8.75/10  
+- **B.Tech + M.Tech** in Engineering Design, Indian Institute of Technology Madras (IITM), Jul 2018 – May 2023  
+  - **GPA**: 3.69/4.0  
 
 ---
 
