@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Naman's AI/ML Site"
+title                    : "Amey's website"
 title_separator          : "-"
-name                     : &name "Naman Choudhary"
+name                     : &name "Amey Sheth"
 description              : &description "personal description"
-url                      : https://Naman-Choudhary-AI-ML.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aasheth.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Naman-Choudhary-AI-ML/Naman-Choudhary-AI-ML.github.io"
+repository               : "aasheth/aasheth.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Naman Choudhary"
+  name             : "Amey Sheth"
   avatar           : "naman.jpg"
   bio              : "MS Student, Carnegie Mellon University"
   location         : "Pittsburgh, USA"
-  employer         : "Data Science Intern at O-I Glass"
+  employer         : "Mechatronics Intern at ASML"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=v5qzgPwAAAAJ&hl=en"
-  email            : "namancho@andrew.cmu.edu"
+  email            : "aasheth@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Naman-Choudhary-AI-ML"
+  github           : "aasheth"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "namanchoudhary/"
+  linkedin         : "ameysheth13/"
   orcid            : #"https://orcid.org/0000-0002-2813-8752"
   pinterest        :
   soundcloud       :
