@@ -31,7 +31,7 @@ redirect_from:
 ---
 
 ### **Professional Experience**  
-**Mechatronics/Robotics Controls Intern**, ASML, Connecticut
+**Mechatronics/Robotics Controls Intern**, ASML, Connecticut  
 Path Planning & Decision-Making Algorithm for In-Vacuum Robot (IVR) and Pod-Handler
 -	Developed a recovery algorithm for an in-vacuum robot, utilizing motor and sensor data for real-time decision-making to locate the nearest recovery station and plan collision-free paths. Implemented the algorithm using OOP in MATLAB.
 -	Created a custom Simulink model to simulate and visualize the robot's trajectory and validate test vectors
