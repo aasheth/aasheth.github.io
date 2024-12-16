@@ -31,7 +31,7 @@ redirect_from:
 ---
 
 ### **Professional Experience**  
-**Mechatronics/Robotics Controls Intern**, ASML, Connecticut<p style="text-align: right;">Right-aligned text</p>  
+**Mechatronics/Robotics Controls Intern**, ASML (Wilton, Connecticut)  
 Path Planning & Decision-Making Algorithm for In-Vacuum Robot (IVR) and Pod-Handler
 -	Developed a recovery algorithm for an in-vacuum robot, utilizing motor and sensor data for real-time decision-making to locate the nearest recovery station and plan collision-free paths. Implemented the algorithm using OOP in MATLAB.
 -	Created a custom Simulink model to simulate and visualize the robot's trajectory and validate test vectors
@@ -39,9 +39,12 @@ Path Planning & Decision-Making Algorithm for In-Vacuum Robot (IVR) and Pod-Hand
 -	Reduced recovery time from over 1 hour to <1 minute, significantly reducing lithography machine downtime by several hours
 
 
-**Energy Analyst**, ICF Consulting  
-- Contributed to energy models showing pathways to reduce India’s import bill by **$20B**.  
-- Specialized in hydrogen adoption studies, receiving the prestigious ‘Bronze Award.’  
+**Engineering Intern**, Robert Bosch India Ltd. (Bangalore, India)  
+Developing gear-shifting strategies for Automated Manual Transmission
+-	Created a high-accuracy data-driven engine model utilizing Decision Tree Regression to estimate engine torque output 
+-	Developed a physics-based powertrain model useful for control design, optimization studies, and HIL simulations
+-	Formulated novel gear-shifting strategies for an Automated Manual Transmission by leveraging Fuzzy Logic control and Neural Network-based control; deployed on powertrain model to attain optimal fuel economy and drivability for different driver modes
+
 
 ---
 
