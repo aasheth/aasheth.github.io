@@ -18,7 +18,7 @@ redirect_from:
 ---
 
 ### **Education**  
-- **MS** in Mechanical Engineering, Carnegie Mellon University, Aug 2023 – May 2025  
+- **MS** in Mechanical Engineering - Research, Carnegie Mellon University, Aug 2023 – May 2025  
   - **GPA**: 4.0/4.0  
   - **Concentration**: Optimal Control, Robotics, Machine Learning (beginner)  
 
@@ -26,19 +26,18 @@ redirect_from:
   - **M.Tech** in Automotive Engineering
   - **B.Tech** in Engineering Design
   - **GPA** (Scholaro): 3.69/4.0
-  - **Teaching Assistant**: Introduction to Computation and Visualization (ED1021), Data Science: Theory and Practice
+  - **Teaching Assistant**: Introduction to Computation and Visualization (ED1021), Data Science: Theory and Practice (ED5340)
 
 ---
 
 ### **Professional Experience**  
-**Graduate Student Researcher**, CMU Machine Learning Dept.  
-- Integrated Geo-FNO into PDE solvers, achieving **2.7x lower error** compared to traditional methods.  
-- Automated dataset generation with OpenFOAM, producing **2,500+ samples** for irregular geometries.
+**Mechatronics/Robotics Controls Intern**, ASML, Connecticut
+Path Planning & Decision-Making Algorithm for In-Vacuum Robot (IVR) and Pod-Handler
+-	Developed a recovery algorithm for an in-vacuum robot, utilizing motor and sensor data for real-time decision-making to locate the nearest recovery station and plan collision-free paths. Implemented the algorithm using OOP in MATLAB.
+-	Created a custom Simulink model to simulate and visualize the robot's trajectory and validate test vectors
+-	Built an interactive GUI that integrates algorithm & Simulink model, serving as an efficient development tool for debugging and testing
+-	Reduced recovery time from over 1 hour to <1 minute, significantly reducing lithography machine downtime by several hours
 
-**Data Science Intern**, O-I Glass, Pittsburgh  
-- Streamlined workflows by converting Excel models to Python scripts, reducing processing time by **90%**.  
-- Built an end-to-end pipeline using **Azure ML, SAP HANA**, and **Databricks**, saving **300+ hours annually**.  
-- Created CO2 emission models, aiding executive leadership in sustainability strategies.
 
 **Energy Analyst**, ICF Consulting  
 - Contributed to energy models showing pathways to reduce India’s import bill by **$20B**.  
