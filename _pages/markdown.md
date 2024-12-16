@@ -9,15 +9,15 @@ redirect_from:
 
 **Location** 
 <br />
-Pittsburgh, USA (Open to Relocation)
+Pittsburgh, USA
 <br />
 <br />
 **Email-Id :** 
 <br />
-namancho@andrew.cmu.edu
+aasheth@andrew.cmu.edu
 <br /> 
 <br />
 **Contact**
 <br />
-USA : +1 412 224 3481
+USA : +1(929)398-4010
 
