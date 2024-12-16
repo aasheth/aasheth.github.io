@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects Overview"
-permalink: /projects/
+permalink: /projects_archive/
 classes: wide
 ---
 
