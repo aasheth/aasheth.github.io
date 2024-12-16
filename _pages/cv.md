@@ -77,11 +77,6 @@ Developing gear-shifting strategies for Automated Manual Transmission
 
 ---
 
-### **Publications**  
-Co-authored **8 research papers** in journals and conferences on optimization and CFD, achieving **26 citations**. [Google Scholar](https://scholar.google.com/citations?user=v5qzgPwAAAAJ&hl=en)
-
----
-
 ### **Interests**  
 - **Research Areas**: Generative AI, Physics-Informed ML, NLP, and Reinforcement Learning.  
 - **Personal Interests**: Passionate about **AI applications in engineering and beyond**, leveraging AI to solve real-world challenges.
