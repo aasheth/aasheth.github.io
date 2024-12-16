@@ -5,7 +5,7 @@ permalink: /projects/
 classes: wide
 ---
 
-Explore some of the impactful projects I’ve worked on, showcasing the application of advanced computational techniques to solve real-world problems. Each project highlights a unique approach to addressing technical challenges with a significant societal impact. Click on the project title to learn more about its goals, methodology, and outcomes.
+Here, Explore some of the impactful projects I’ve worked on, showcasing the application of advanced computational techniques to solve real-world problems. Each project highlights a unique approach to addressing technical challenges with a significant societal impact. Click on the project title to learn more about its goals, methodology, and outcomes.
 
 ---
 
