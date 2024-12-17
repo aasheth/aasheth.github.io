@@ -20,7 +20,7 @@ This work enhances infrastructure safety, promotes environmental sustainability,
 
 **GitHub Link:** Coming soon (will be added post-research publication).
 
-![GeoFNO Implementation](/images/geofno.png)
+![GeoFNO Implementation](/images/mapf-demo.gif)
 
 ---
 
