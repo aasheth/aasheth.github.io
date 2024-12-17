@@ -30,7 +30,7 @@ A Support Vector Regression (SVR) model was developed to predict the cost-to-go 
 The ML-enhanced EECBS (ML-EECBS) outperformed traditional EECBS on fixed maps, reducing runtime by 9.6% and node expansions by 7.4%. The SVR model generalized effectively to unseen agent configurations while maintaining accuracy. However, generalization to entirely new maps showed marginal performance improvements due to query time overheads.
 
 ![Results](/images/ml-eecbs-merged.png)  
-*_Figure 1: Performance of the SVR trained on dataset (i) (Top) and dataset (ii) (Bottom). As we can see, the one trained on dataset (ii) provides much more accurate predictions of ˆh_
+*Figure 1: Performance of the SVR trained on dataset (i) (Left) and dataset (ii) (Right). As we can see, the one trained on dataset (ii) provides much more accurate predictions of ˆh*
 
 ---
 
