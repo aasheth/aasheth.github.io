@@ -11,7 +11,8 @@ classes: wide
 Multi-Agent Path Finding (MAPF) is crucial for applications like warehouse automation, traffic management, and gaming. Efficient solutions require collision-free paths for agents while optimizing costs. Enhanced ECBS (EECBS) incorporates online learning to improve heuristic accuracy, yet its handcrafted heuristic struggles with precision. This project proposes a machine learning framework for estimating the cost-to-go heuristic, improving runtime and search efficiency.
 
 ![MAPF demo](/images/mapf-gif-final.gif)  
-*Figure 1. Demonstration of MAPF algorithm in action*
+*Figure 1: Demonstration of MAPF algorithm in action*
+
 ---
 
 ## Method
@@ -27,7 +28,7 @@ A Support Vector Regression (SVR) model was developed to predict the cost-to-go 
 The ML-enhanced EECBS (ML-EECBS) outperformed traditional EECBS on fixed maps, reducing runtime by 9.6% and node expansions by 7.4%. The SVR model generalized effectively to unseen agent configurations while maintaining accuracy. However, generalization to entirely new maps showed marginal performance improvements due to query time overheads.
 
 ![Results](/images/ml-eecbs-merged.png)  
-*Figure 1: Performance of the SVR trained on dataset (i) (Left) and dataset (ii) (Right). As we can see, the one trained on dataset (ii) provides much more accurate predictions of ˆh*
+*Figure 2: Performance of the SVR trained on dataset (i) (Left) and dataset (ii) (Right). As we can see, the one trained on dataset (ii) provides much more accurate predictions of ˆh*
 
 ---
 
