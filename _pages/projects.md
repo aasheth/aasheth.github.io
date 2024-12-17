@@ -35,7 +35,7 @@ The trapeze-jumping acrobot project was a toy project, but it has the potential 
 
 **GitHub Link:** [Flying Acrobot](https://github.com/aasheth/16-745_Flying_Acrobot)
 
-![RAG System Architecture](/images/rag-runtime.png)
+![Flying Acrobot motion phases](/images/flying-acrobot-placeholder.png)
 
 ---
 
