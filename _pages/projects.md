@@ -5,15 +5,15 @@ permalink: /projects/
 classes: wide
 ---
 
-Here, Explore some of the impactful projects I’ve worked on, showcasing the application of advanced computational techniques to solve real-world problems. Each project highlights a unique approach to addressing technical challenges with a significant societal impact. Click on the project title to learn more about its goals, methodology, and outcomes.
+Explore some of the impactful projects I’ve worked on, showcasing the application of advanced computational techniques to solve real-world problems. Each project highlights a unique approach to addressing technical challenges with a significant societal impact. Click on the project title to learn more about its goals, methodology, and outcomes.
 
 ---
 
-## 1. [Open-Source GeoFNO Implementation for Irregular Geometries in PDE Solvers](/projects/project-1/)
+## 1. [ML-EECBS - Learning a better cost-to-go heuristic for EECBS](/projects/project-1/)
 
 {: style="text-align: justify;"}
 **Introduction:**  
-Partial differential equations (PDEs) are essential for simulating physical phenomena across fields such as engineering and healthcare. This project focuses on overcoming the limitations of traditional PDE solvers in handling irregular geometries. By implementing Geo-FNO within the Unified PDE Solver (UPS) framework, we aim to provide accessible and scalable simulation capabilities.
+Multi-Agent Path Finding (MAPF) is crucial for applications like warehouse automation, traffic management, and gaming. Efficient solutions require collision-free paths for agents while optimizing costs. Enhanced ECBS (EECBS) incorporates online learning to improve heuristic accuracy, yet its handcrafted heuristic struggles with precision. This project proposes a machine learning framework for estimating the cost-to-go heuristic, improving runtime and search efficiency.
 
 **Social Impact:**  
 This work enhances infrastructure safety, promotes environmental sustainability, and supports healthcare innovation by enabling simulations for real-world geometries.
@@ -24,11 +24,11 @@ This work enhances infrastructure safety, promotes environmental sustainability,
 
 ---
 
-## 2. [Developing a Retrieval-Augmented Generation (RAG) System for Factual Question-Answering](/projects/project-2/)
+## 2. [Optimal control strategies for a two-link trapeze-jumping Acrobot](/projects/project-2/)
 
 {: style="text-align: justify;"}
 **Introduction:**  
-The Retrieval-Augmented Generation (RAG) approach integrates retrieval mechanisms with large language models (LLMs) to enhance factual question-answering. This project developed a RAG system to provide concise answers to questions about Pittsburgh and CMU, streamlining access to information within large datasets.
+Trapeze-jumping acrobots present unique challenges in robotics due to their under-actuated and nonlinear nature. This project aimed to develop an optimal control strategy that allows an acrobot to transition seamlessly between trapeze bars. The study focused on minimizing energy consumption while maintaining trajectory precision and stability.
 
 **Social Impact:**  
 By providing accurate, real-time answers, this system simplifies access to complex datasets, making information more accessible to students, researchers, and the public.
@@ -39,11 +39,11 @@ By providing accurate, real-time answers, this system simplifies access to compl
 
 ---
 
-## 3. [Fine-tuning LLaVA for Scientific and Chart-Based Visual Question Answering](/projects/project-3/)
+## 3. [Development of an Automatic Recovery Algorithm for ASML's In-Vacuum Robot](/projects/project-3/)
 
 {: style="text-align: justify;"}
 **Introduction:**  
-LLaVA is a multimodal model built to interpret complex vision-and-language tasks. This project fine-tunes LLaVA for scientific visual content and charts, enabling researchers and educators to efficiently extract insights from complex visual data.
+In ASML's lithography machines, the In-Vacuum Robot (IVR) plays a critical role in transferring reticles between radially aligned stations. During operations, deviations from predefined logical positions can occur due to driver failures, power outages, or mechanical malfunctions. Recovery from such lost positions is typically manual, resulting in significant downtime and risks of collision. This project aimed to develop an automated recovery algorithm to reduce recovery time, enhance operational efficiency, and mitigate human error.
 
 **Social Impact:**  
 This project democratizes access to scientific insights, empowering researchers, students, and educators to analyze and understand complex visualizations effortlessly.
@@ -54,11 +54,11 @@ This project democratizes access to scientific insights, empowering researchers,
 
 ---
 
-## 4. [Physics-Informed Diffusion Models for Physics-Based Data Generation](/projects/project-4/)
+## 4. [Vehicle Dynamics Development for Raftar Formula Racing's RFR20](/projects/project-4/)
 
 {: style="text-align: justify;"}
 **Introduction:**  
-Physics-Informed Diffusion Models (PIDMs) embed physical constraints into generative models, ensuring generated data respects governing physical laws. This project enhances diffusion models with physics-based loss terms to generate datasets that align with real-world physics.
+Raftar Formula Racing's RFR20 project focuses on optimizing the vehicle dynamics to enhance the car’s performance in Formula Student competitions. Key areas of improvement include suspension geometry, lateral load transfer distribution (LLTD), brake bias, tire selection, and steering geometry. By leveraging simulation tools and experimental validation, this report details the iterative process undertaken to achieve an agile, high-performing vehicle.
 
 **Social Impact:**  
 PIDMs provide cost-effective, reliable datasets for engineering simulations, environmental modeling, and material science, reducing reliance on expensive computational simulations.
