@@ -48,7 +48,7 @@ In ASML's lithography machines, the In-Vacuum Robot (IVR) plays a critical role 
 **Social Impact:**  
 The ASML project significantly reduced robot recovery times in lithography machines, enhancing operational efficiency and minimizing downtime.
 
-![LLaVA Architecture](/images/llava_pipeline.png)
+![LLaVA Architecture](/images/asml-internship-photo.png)
 
 ---
 
@@ -61,4 +61,4 @@ Raftar Formula Racing's RFR20 project focuses on optimizing the vehicle dynamics
 **Social Impact:**  
 The Formula Student project fosters innovation in automotive engineering, providing hands-on experience for us students to develop sustainable, efficient, and high-performance vehicles.
 
-![Physics-Informed Diffusion Model Results](/images/darcy_flow_residual.png)
+![Physics-Informed Diffusion Model Results](/images/raftar-combined.jpg)
