@@ -20,7 +20,7 @@ By reducing computational time and improving scalability, ML-EECBS enables faste
 
 **GitHub Link:** [ML-EECBS](https://github.com/aasheth/ML-ECBS)
 
-![GeoFNO Implementation](/images/mapf-demo.gif)
+![ML-EECBS in action](/images/mapf-gif-final.gif)
 
 ---
 
