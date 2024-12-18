@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Developing a Retrieval-Augmented Generation (RAG) System for Factual Question-Answering"
+title: "Optimal control strategies for a two-link trapeze-jumping Acrobot"
 permalink: /projects/project-2/
 classes: wide
 ---
