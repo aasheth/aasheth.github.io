@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Physics-Informed Diffusion Models for Physics-Based Data Generation"
+title: "Vehicle Dynamics Development for Raftar Formula Racing's RFR20"
 permalink: /projects/project-4/
 classes: wide
 ---
@@ -8,10 +8,7 @@ classes: wide
 ## Introduction
 
 {: style="text-align: justify;"}
-Physics-Informed Diffusion Models (PIDMs) incorporate physical laws directly into the generative model’s training process, ensuring that generated data respects the governing equations associated with physical phenomena. Traditional diffusion models, though powerful, have lacked mechanisms to embed physical constraints into the data generation process. This project addresses this gap by integrating physics-based loss terms into the diffusion model training, enabling the generation of data that aligns with specific physical principles, such as partial differential equations (PDEs).
-
-{: style="text-align: justify;"}
-**Social Impact**: By ensuring that generated datasets follow physics principles, PIDMs can transform fields such as engineering simulations, environmental modeling, and material science. They provide researchers with cost-effective, reliable synthetic data that adheres to real-world physics, reducing reliance on computationally expensive simulations and promoting advancements in scientific understanding and innovation.
+Raftar Formula Racing's RFR20 project focuses on optimizing the vehicle dynamics to enhance the car’s performance in Formula Student competitions. Key areas of improvement include suspension geometry, lateral load transfer distribution (LLTD), brake bias, tire selection, and steering geometry. By leveraging simulation tools and experimental validation, this report details the iterative process undertaken to achieve an agile, high-performing vehicle.
 
 ---
 
