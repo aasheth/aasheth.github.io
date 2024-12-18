@@ -37,7 +37,4 @@ Simulation results showed the acrobot successfully transitioning between trapeze
 {: style="text-align: justify;"}
 This study highlights the potential of DIRCOL in solving complex control problems for under-actuated systems. By optimizing timing and control inputs, the acrobot achieved stable and energy-efficient motion. Future work will focus on trajectory tracking and real-time adjustments using advanced control techniques like time-varying LQR.
 
-![RAG vs. Self-RAG](/images/selfrag.png)  
-*Figure 2: The Self-RAG model selectively retrieves context based on query relevance, enhancing response accuracy and minimizing irrelevant information—a critical feature for specialized domains like engineering question-answering.*
-
 ---
