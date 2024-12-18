@@ -8,60 +8,42 @@ classes: wide
 ## Introduction
 
 {: style="text-align: justify;"}
-LLaVA (Large Language and Vision Assistant) is a multimodal model developed by connecting a visual encoder with a language model for comprehensive visual and language understanding. Built to interpret complex vision-and-language instructions, LLaVA incorporates GPT-4-generated multimodal instruction data to address a wide range of visual understanding tasks, achieving state-of-the-art performance in visual question answering (VQA). Our project focuses on fine-tuning LLaVA for scientific visual content, including image data from research and scientific charts, to enhance its capabilities for scientific analysis and chart-based questions.
-
-{: style="text-align: justify;"}
-**Social Impact**: Adapting LLaVA to scientific domains enables researchers, educators, and students to efficiently extract insights from complex visual data. This advancement supports broader knowledge accessibility, empowering users to query scientific visualizations with natural language, accelerating innovation, and democratizing access to technical expertise.
+In ASML's lithography machines, the In-Vacuum Robot (IVR) plays a critical role in transferring reticles between radially aligned stations. During operations, deviations from predefined logical positions can occur due to driver failures, power outages, or mechanical malfunctions. Recovery from such lost positions is typically manual, resulting in significant downtime and risks of collision. This project aimed to develop an automated recovery algorithm to reduce recovery time, enhance operational efficiency, and mitigate human error.
 
 ---
 
-## Methodology
+## Method
 
 {: style="text-align: justify;"}
-This project employs a structured approach to fine-tune LLaVA on scientific and chart-based visual datasets, with a focus on adapting its multimodal reasoning capabilities for scientific applications.
+The IVR, modeled as a 4-link, 3-DoF system operating in cylindrical coordinates, required a systematic recovery solution for two classifications of lost positions: unentangled and entangled scenarios. The approach involved:  
 
-### Data Collection and Preparation
+**1. Algorithm Development:**  
+- For unentangled recovery, moves were executed sequentially in 𝑅, 𝜙, and 𝑍 directions based on proximity to the nearest station.
+- For entangled recovery, station-specific algorithms ensured collision-free moves considering reticle presence on the gripper and stations.
+
+**2. GUI tool:** A MATLAB-based interactive GUI was developed to input lost positions, select reticle status, and visualize recovery trajectories.  
+
+**3. Trajectory Simulation:** A Simulink model simulated the IVR's environment, including links, joints, and reticle presence using Variant Subsystems. Waypoints were generated, and inverse kinematics ensured smooth motion.
+
+**4. Testing:** The recovery algorithm was rigorously tested through 3D simulations and compared against expected outcomes for accuracy.
+
+![ASML project workflow](/images/asml-internship-photo.png)
+
+### Results  
 
 {: style="text-align: justify;"}
-My contributions involved gathering relevant scientific datasets, including the Science QA benchmark and additional datasets from sources such as Kaggle, which provided scientific documents and visuals. The Science QA dataset consists of 21,208 multimodal multiple-choice questions across natural sciences, language science, and social science, with explanations and lectures for chain-of-thought reasoning. My partner focused on biomedical data collection to enrich the model's capabilities in that domain.
+The automated recovery algorithm successfully reduced manual intervention, enabling the IVR to return to logical positions safely and efficiently. The MATLAB GUI and 3D simulations provided intuitive visualization and validated the algorithm's performance. Key outcomes included:
 
-![Domain Diversity in Science QA](/images/sqa_diversity.png)  
-*Figure 1: Science QA covers a wide range of subjects, including natural sciences, social sciences, and language sciences, enhancing the model's ability to generalize across topics.*
+- Accurate identification of recovery trajectories.
+- Smooth transitions between lost positions and logical waypoints.
+- Reduced recovery times compared to manual processes.
 
 ---
 
-### Model Training
+### Conclusion
 
 {: style="text-align: justify;"}
-The LLaVA model training includes two primary stages:
-
-- **Pre-training**: LLaVA was pre-trained on general vision-language datasets to align image features with language representations. We utilized filtered CC3M and custom instructional data for alignment.
-- **Fine-tuning on Science QA**: LLaVA was then fine-tuned using Science QA’s question-and-answer pairs, formatted in a conversation style for visual reasoning. The chain-of-thought approach in Science QA helped the model build reasoning processes crucial for scientific questions.
+The project delivered an effective and automated solution for IVR recovery, minimizing downtime and enhancing operational reliability. Future steps include a design review, software team implementation, and real-world validation on test rigs before deployment to customers.
 
 ![LLaVA Architecture](/images/llava_pipeline.png)  
 *Figure 2: The LLaVA architecture.*
-
----
-
-## Results
-
-{: style="text-align: justify;"}
-The fine-tuned LLaVA model achieved significant improvements on the Science QA dataset:
-
-- **Accuracy**: Our fine-tuned LLaVA model reached an accuracy of 92.53% on Science QA, surpassing previous benchmarks and illustrating its effectiveness in answering complex scientific questions.
-- **Chart Reading Capability**: Initial tests on sample scientific charts indicate that LLaVA can interpret and answer questions about data trends, specific values, and other features of visualized data.
-- **Multimodal Reasoning**: The chain-of-thought approach in Science QA notably enhanced the model’s performance in multimodal reasoning tasks, indicating a robust understanding of context within scientific images.
-
----
-
-## Discussion and Future Directions
-
-{: style="text-align: justify;"}
-This project demonstrates the feasibility of adapting LLaVA for specialized scientific tasks, providing new avenues for scientific and educational applications. The model’s ability to handle chart-based questions paves the way for its use in data-driven fields requiring visual analysis.
-
-### Future Work:
-
-- Enhancing LLaVA’s capabilities for biomedical data, allowing domain-specific queries in medicine and biology.
-- Evaluating its performance on larger, more diverse datasets of scientific imagery to refine its applicability across various research disciplines.
-
----
