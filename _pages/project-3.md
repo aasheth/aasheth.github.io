@@ -45,5 +45,3 @@ The automated recovery algorithm successfully reduced manual intervention, enabl
 {: style="text-align: justify;"}
 The project delivered an effective and automated solution for IVR recovery, minimizing downtime and enhancing operational reliability. Future steps include a design review, software team implementation, and real-world validation on test rigs before deployment to customers.
 
-![LLaVA Architecture](/images/llava_pipeline.png)  
-*Figure 2: The LLaVA architecture.*
