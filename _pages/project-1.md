@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Open-Source GeoFNO Implementation for Irregular Geometries in PDE Solvers"
+title: "ML-EECBS - Learning a better cost-to-go heuristic for EECBS"
 permalink: /projects/project-1/
 classes: wide
 ---
