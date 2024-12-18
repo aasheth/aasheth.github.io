@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Fine-tuning LLaVA for Scientific and Chart-Based Visual Question Answering"
+title: "Development of an Automatic Recovery Algorithm for ASML's In-Vacuum Robot"
 permalink: /projects/project-3/
 classes: wide
 ---
