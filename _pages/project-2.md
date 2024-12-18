@@ -8,59 +8,34 @@ classes: wide
 ## Introduction
 
 {: style="text-align: justify;"}
-The Retrieval-Augmented Generation (RAG) approach combines retrieval mechanisms with large language models (LLMs) to enhance factual question-answering capabilities by incorporating relevant external documents. This project develops a RAG system to answer questions about Pittsburgh and Carnegie Mellon University (CMU). Our system aims to provide an accessible tool where users can instantly retrieve concise answers from extensive documents without manually searching through them, making it highly valuable for students, researchers, and the general public.
-
-{: style="text-align: justify;"}
-**Social Impact**: This RAG system revolutionizes how users access information, saving significant time and effort. For students and researchers, it enables quick insights from academic or technical documents, removing barriers to knowledge discovery. By adapting this tool for scientific and engineering domains, it has the potential to accelerate innovation, foster cross-disciplinary collaboration, and democratize access to critical technical knowledge, empowering users worldwide.
+Trapeze-jumping acrobots present unique challenges in robotics due to their under-actuated and nonlinear nature. This project aimed to develop an optimal control strategy that allows an acrobot to transition seamlessly between trapeze bars. The study focused on minimizing energy consumption while maintaining trajectory precision and stability.
 
 ---
 
 ## Method
 
 {: style="text-align: justify;"}
-This RAG system integrates document retrieval with sequence-to-sequence generation for an end-to-end question-answering framework. My contributions included setting up dataset embeddings, constructing the RAG model pipeline, conducting ablations on datasets and models, and verifying test data accuracy. My teammate managed data scraping, dataset creation with various chunking strategies, crafting Q&A pairs, and initial Q&A pair annotation.
+The acrobot was modeled as a two-link system with a revolute joint. Direct Collocation (DIRCOL) optimization was employed to discretize the continuous control trajectory into collocation points. The approach incorporated free-time optimization to improve phase transitions dynamically. Constraints were applied to manage the dynamics of the swinging and flying phases, with a quadratic cost function prioritizing efficiency and precision.
 
-### Approach:
-
-- **Data Collection**: Data was collected from various online sources, covering history, culture, tourism, and other aspects of Pittsburgh and CMU. Using Python libraries, HTML content and PDFs were parsed into plain text.
-- **Data Preprocessing**: Text was cleaned and standardized using tokenization and chunking strategies of 1, 2, 5, 7, and 10 sentences to optimize retrieval performance.
-- **Embedding Models**: Embeddings were generated using two primary models—MiniLM-L6 and BAAI/bge-large-en-v1.5—for document and query representations.
-- **Language Models**: Tested Flan-T5 models of varying sizes to evaluate their performance on retrieval-augmented generation tasks.
-- **Model Ablations**: Tested multiple model configurations for retrieval and generation, varying embedding sizes, language models, and chunking strategies to determine the optimal setup.
-
-### RAG System Architecture:
-
-![RAG System Architecture](/images/rag-runtime.png)  
-*Figure 1: The RAG system integrates retrieval and generation components. Retrieved documents are passed to Flan-T5 for answer generation, with optimal chunking determined by sentence length experiments.*
+![Acrobot dynamics phases](/images/flying-acrobot-placeholder.png)  
+*Figure 1: The diagram shows the different dynamics phases of acrobot - swing up, flying, and catching.*
 
 ---
 
 ## Results
 
 {: style="text-align: justify;"}
-The RAG system’s performance was evaluated using Exact Match (EM) and F1 scores. Key findings include:
+Simulation results showed the acrobot successfully transitioning between trapeze bars. The free-time implementation proved critical in achieving smooth transitions, optimizing momentum during the swinging phase, and ensuring precise landings during the flying phase. Key performance metrics, such as input torque and state transitions, were validated, demonstrating robust control.
 
-- **Optimal Chunking Strategy**: 5-sentence chunking achieved the highest EM (46.00%) and F1 score (0.62), providing the right balance of context and efficiency.
-- **Embedding Model Comparison**: Switching to BAAI embeddings improved EM by 6%, although this model required significantly more memory.
-- **Short vs. Long Answers**: Short answers (3-4 words) improved EM by 10%, showing that concise responses better align with the evaluation metrics.
-- **Language Model Performance**: Flan-T5-xl outperformed Flan-T5-large, suggesting that larger models offer slight accuracy gains, though at a cost in memory usage.
-
-{: style="text-align: justify;"}
-These results underscore the RAG system's ability to provide accurate, context-specific answers while remaining efficient, making it suitable for real-time question-answering applications.
+![Acrobot state vs time plots](/images/acrobot-results.png)  
+*Figure 2: timeseries plot of state (left) and state derivative (right)*
 
 ---
 
-## Discussion and Future Directions
+## Conclusion
 
 {: style="text-align: justify;"}
-This project demonstrates that RAG systems can be tailored for specific domains like localized knowledge retrieval, helping users access factual and community-centered information. The open-source structure of this pipeline encourages its adaptation and use in educational contexts.
-
-### Future Work:
-
-- Implementing **Self-RAG**, a refined mechanism that improves accuracy by selectively retrieving only query-relevant information, further increasing response precision and reducing irrelevant content.
-- Adapting the RAG system for scientific and technical question-answering to support use cases in engineering and STEM education.
-
-### RAG vs. Self-RAG:
+This study highlights the potential of DIRCOL in solving complex control problems for under-actuated systems. By optimizing timing and control inputs, the acrobot achieved stable and energy-efficient motion. Future work will focus on trajectory tracking and real-time adjustments using advanced control techniques like time-varying LQR.
 
 ![RAG vs. Self-RAG](/images/selfrag.png)  
 *Figure 2: The Self-RAG model selectively retrieves context based on query relevance, enhancing response accuracy and minimizing irrelevant information—a critical feature for specialized domains like engineering question-answering.*
